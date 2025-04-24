@@ -1,371 +1,473 @@
-﻿Marque;Série;Modèle;Type de réparation;Qualité;Prix Standard (€);;;
-Apple;iPhone;iPhone 6;Écran;Compatible;40;;;
-Apple;iPhone;iPhone 6;Châssis;Compatible;60;;;
-Apple;iPhone;iPhone 6S;Écran;Compatible;40;;;
-Apple;iPhone;iPhone 6S;Châssis;Compatible;60;;;
-Apple;iPhone;iPhone 6S Plus;Écran;Compatible;40;;;
-Apple;iPhone;iPhone 6S Plus;Châssis;Compatible;60;;;
-Apple;iPhone;iPhone SE 2016;Écran;Compatible;40;;;
-Apple;iPhone;iPhone SE 2016;Châssis;Compatible;50;;;
-Apple;iPhone;iPhone 7;Écran;Compatible;40;;;
-Apple;iPhone;iPhone 7;Châssis;Compatible;60;;;
-Apple;iPhone;iPhone 7 Plus;Écran;Compatible;50;;;
-Apple;iPhone;iPhone 7 Plus;Châssis;Compatible;70;;;
-Apple;iPhone;iPhone 8;Écran;Compatible;50;;;
-Apple;iPhone;iPhone 8;Châssis;Compatible;80;;;
-Apple;iPhone;iPhone 8 Plus;Écran;Compatible;60;;;
-Apple;iPhone;iPhone 8 Plus;Châssis;Compatible;90;;;
-Apple;iPhone;iPhone X;Écran;Compatible;60;;;
-Apple;iPhone;iPhone X;Écran;Origine;120;;;
-Apple;iPhone;iPhone X;Châssis;Compatible;110;;;
-Apple;iPhone;iPhone XS;Écran;Compatible;60;;;
-Apple;iPhone;iPhone XS;Écran;Origine;120;;;
-Apple;iPhone;iPhone XS;Châssis;Compatible;110;;;
-Apple;iPhone;iPhone XS Max;Écran;Compatible;70;;;
-Apple;iPhone;iPhone XS Max;Écran;Origine;130;;;
-Apple;iPhone;iPhone XS Max;Châssis;Compatible;120;;;
-Apple;iPhone;iPhone XR;Écran;Compatible;70;;;
-Apple;iPhone;iPhone XR;Écran;Origine;100;;;
-Apple;iPhone;iPhone XR;Châssis;Compatible;110;;;
-Apple;iPhone;iPhone SE 2020;Écran;Compatible;40;;;
-Apple;iPhone;iPhone SE 2020;Écran;Origine;80;;;
-Apple;iPhone;iPhone SE 2020;Châssis;Compatible;80;;;
-Apple;iPhone;iPhone 11;Écran;Compatible;70;;;
-Apple;iPhone;iPhone 11;Écran;Origine;100;;;
-Apple;iPhone;iPhone 11;Châssis;Compatible;120;;;
-Apple;iPhone;iPhone 11 Pro;Écran;Compatible;70;;;
-Apple;iPhone;iPhone 11 Pro;Écran;Origine;140;;;
-Apple;iPhone;iPhone 11 Pro;Châssis;Compatible;160;;;
-Apple;iPhone;iPhone 11 Pro Max;Écran;Compatible;80;;;
-Apple;iPhone;iPhone 11 Pro Max;Écran;Origine;170;;;
-Apple;iPhone;iPhone 11 Pro Max;Châssis;Compatible;170;;;
-Apple;iPhone;iPhone 12 Mini;Écran;Compatible;120;;;
-Apple;iPhone;iPhone 12 Mini;Écran;Origine;180;;;
-Apple;iPhone;iPhone 12 Mini;Châssis;Compatible;140;;;
-Apple;iPhone;iPhone 12;Écran;Compatible;120;;;
-Apple;iPhone;iPhone 12;Écran;Origine;180;;;
-Apple;iPhone;iPhone 12;Châssis;Compatible;130;;;
-Apple;iPhone;iPhone 12 Pro;Écran;Compatible;120;;;
-Apple;iPhone;iPhone 12 Pro;Écran;Origine;190;;;
-Apple;iPhone;iPhone 12 Pro;Châssis;Compatible;160;;;
-Apple;iPhone;iPhone 12 Pro Max;Écran;Compatible;120;;;
-Apple;iPhone;iPhone 12 Pro Max;Écran;Origine;220;;;
-Apple;iPhone;iPhone 12 Pro Max;Châssis;Compatible;180;;;
-Apple;iPhone;iPhone 13 Mini;Écran;Compatible;140;;;
-Apple;iPhone;iPhone 13 Mini;Écran;Origine;230;;;
-Apple;iPhone;iPhone 13 Mini;Châssis;Compatible;150;;;
-Apple;iPhone;iPhone 13;Écran;Compatible;140;;;
-Apple;iPhone;iPhone 13;Écran;Origine;180;;;
-Apple;iPhone;iPhone 13;Châssis;Compatible;150;;;
-Apple;iPhone;iPhone 13 Pro;Écran;Compatible;150;;;
-Apple;iPhone;iPhone 13 Pro;Écran;Origine;350;;;
-Apple;iPhone;iPhone 13 Pro;Châssis;Compatible;180;;;
-Apple;iPhone;iPhone 13 Pro Max;Écran;Compatible;160;;;
-Apple;iPhone;iPhone 13 Pro Max;Écran;Origine;400;;;
-Apple;iPhone;iPhone 13 Pro Max;Châssis;Compatible;220;;;
-Apple;iPhone;iPhone SE 2022;Écran;Compatible;60;;;
-Apple;iPhone;iPhone SE 2022;Écran;Origine;80;;;
-Apple;iPhone;iPhone SE 2022;Châssis;Compatible;80;;;
-Apple;iPhone;iPhone 14;Écran;Compatible;170;;;
-Apple;iPhone;iPhone 14;Écran;Origine;230;;;
-Apple;iPhone;iPhone 14;Châssis;Compatible;180;;;
-Apple;iPhone;iPhone 14 Plus;Écran;Compatible;180;;;
-Apple;iPhone;iPhone 14 Plus;Écran;Origine;250;;;
-Apple;iPhone;iPhone 14 Plus;Châssis;Compatible;200;;;
-Apple;iPhone;iPhone 14 Pro;Écran;Compatible;190;;;
-Apple;iPhone;iPhone 14 Pro;Écran;Origine;420;;;
-Apple;iPhone;iPhone 14 Pro;Châssis;Compatible;230;;;
-Apple;iPhone;iPhone 14 Pro Max;Écran;Compatible;200;;;
-Apple;iPhone;iPhone 14 Pro Max;Écran;Origine;460;;;
-Apple;iPhone;iPhone 14 Pro Max;Châssis;Compatible;250;;;
-Apple;iPhone;iPhone 15;Écran;Compatible;200;;;
-Apple;iPhone;iPhone 15;Écran;Origine;420;;;
-Apple;iPhone;iPhone 15;Châssis;Compatible;300;;;
-Apple;iPhone;iPhone 15 Plus;Écran;Compatible;210;;;
-Apple;iPhone;iPhone 15 Plus;Écran;Origine;400;;;
-Apple;iPhone;iPhone 15 Plus;Châssis;Compatible;330;;;
-Apple;iPhone;iPhone 15 Pro;Écran;Compatible;210;;;
-Apple;iPhone;iPhone 15 Pro;Écran;Origine;500;;;
-Apple;iPhone;iPhone 15 Pro;Châssis;Compatible;370;;;
-Apple;iPhone;iPhone 15 Pro Max;Écran;Compatible;230;;;
-Apple;iPhone;iPhone 15 Pro Max;Écran;Origine;560;;;
-Apple;iPhone;iPhone 15 Pro Max;Châssis;Compatible;400;;;
-Samsung;Galaxy A;A02;Écran;Compatible;70;;;
-Samsung;Galaxy A;A02 S;Écran;Compatible;70;;;
-Samsung;Galaxy A;A02;Écran;Origine;90;;;
-Samsung;Galaxy A;A02 S;Écran;Origine;90;;;
-Samsung;Galaxy A;A03;Écran;Compatible;70;;;
-Samsung;Galaxy A;A03 S;Écran;Compatible;70;;;
-Samsung;Galaxy A;A03;Écran;Origine;90;;;
-Samsung;Galaxy A;A03 S;Écran;Origine;90;;;
-Samsung;Galaxy A;A03 CORE;Écran;Compatible;70;;;
-Samsung;Galaxy A;A03 CORE;Écran;Origine;90;;;
-Samsung;Galaxy A;A04 E;Écran;Compatible;70;;;
-Samsung;Galaxy A;A04 E;Écran;Origine;90;;;
-Samsung;Galaxy A;A04;Écran;Compatible;70;;;
-Samsung;Galaxy A;A04 S;Écran;Compatible;70;;;
-Samsung;Galaxy A;A04;Écran;Origine;90;;;
-Samsung;Galaxy A;A04 S;Écran;Origine;90;;;
-Samsung;Galaxy A;A05;Écran;Compatible;70;;;
-Samsung;Galaxy A;A05 S;Écran;Compatible;70;;;
-Samsung;Galaxy A;A05;Écran;Origine;90;;;
-Samsung;Galaxy A;A05 S;Écran;Origine;90;;;
-Samsung;Galaxy A;A10;Écran;Compatible;70;;;
-Samsung;Galaxy A;A10 S;Écran;Compatible;70;;;
-Samsung;Galaxy A;A10;Écran;Origine;90;;;
-Samsung;Galaxy A;A10 S;Écran;Origine;90;;;
-Samsung;Galaxy A;A11;Écran;Compatible;70;;;
-Samsung;Galaxy A;A11;Écran;Origine;90;;;
-Samsung;Galaxy A;A12;Écran;Compatible;70;;;
-Samsung;Galaxy A;A12;Écran;Origine;90;;;
-Samsung;Galaxy A;A13;Écran;Compatible;70;;;
-Samsung;Galaxy A;A13 5G;Écran;Compatible;70;;;
-Samsung;Galaxy A;A13;Écran;Origine;100;;;
-Samsung;Galaxy A;A13 5G;Écran;Origine;100;;;
-Samsung;Galaxy A;A14;Écran;Compatible;70;;;
-Samsung;Galaxy A;A14 5G;Écran;Compatible;70;;;
-Samsung;Galaxy A;A14;Écran;Origine;100;;;
-Samsung;Galaxy A;A14 5G;Écran;Origine;100;;;
-Samsung;Galaxy A;A15;Écran;Compatible;70;;;
-Samsung;Galaxy A;A15 5G;Écran;Compatible;70;;;
-Samsung;Galaxy A;A15;Écran;Origine;100;;;
-Samsung;Galaxy A;A15 5G;Écran;Origine;100;;;
-Samsung;Galaxy A;A20;Écran;Compatible;70;;;
-Samsung;Galaxy A;A20 S;Écran;Compatible;70;;;
-Samsung;Galaxy A;A20 E;Écran;Compatible;70;;;
-Samsung;Galaxy A;A20;Écran;Origine;100;;;
-Samsung;Galaxy A;A20 S;Écran;Origine;100;;;
-Samsung;Galaxy A;A20 E;Écran;Origine;100;;;
-Samsung;Galaxy A;A20E;Écran;Compatible;70;;;
-Samsung;Galaxy A;A20 S;Écran;Compatible;70;;;
-Samsung;Galaxy A;A20E;Écran;Origine;100;;;
-Samsung;Galaxy A;A20 S;Écran;Origine;100;;;
-Samsung;Galaxy A;A21S;Écran;Compatible;80;;;
-Samsung;Galaxy A;A21S;Écran;Origine;110;;;
-Samsung;Galaxy A;A22;Écran;Compatible;80;;;
-Samsung;Galaxy A;A22 5G;Écran;Compatible;80;;;
-Samsung;Galaxy A;A22;Écran;Origine;110;;;
-Samsung;Galaxy A;A22 5G;Écran;Origine;110;;;
-Samsung;Galaxy A;A23;Écran;Compatible;80;;;
-Samsung;Galaxy A;A23 G;Écran;Compatible;80;;;
-Samsung;Galaxy A;A23;Écran;Origine;110;;;
-Samsung;Galaxy A;A23 5G;Écran;Origine;110;;;
-Samsung;Galaxy A;A24;Écran;Compatible;100;;;
-Samsung;Galaxy A;A24;Écran;Origine;110;;;
-Samsung;Galaxy A;A25;Écran;Origine;120;;;
-Samsung;Galaxy A;A30;Écran;Compatible;80;;;
-Samsung;Galaxy A;A30S;Écran;Compatible;80;;;
-Samsung;Galaxy A;A30;Écran;Origine;110;;;
-Samsung;Galaxy A;A30S;Écran;Origine;110;;;
-Samsung;Galaxy A;A32;Écran;Compatible;80;;;
-Samsung;Galaxy A;A32 5G;Écran;Compatible;80;;;
-Samsung;Galaxy A;A32;Écran;Origine;110;;;
-Samsung;Galaxy A;A32 5G;Écran;Origine;110;;;
-Samsung;Galaxy A;A33;Écran;Compatible;80;;;
-Samsung;Galaxy A;A33 5G;Écran;Compatible;80;;;
-Samsung;Galaxy A;A33;Écran;Origine;110;;;
-Samsung;Galaxy A;A33 5G;Écran;Origine;110;;;
-Samsung;Galaxy A;A40;Écran;Compatible;80;;;
-Samsung;Galaxy A;A40;Écran;Origine;110;;;
-Samsung;Galaxy A;A41;Écran;Compatible;80;;;
-Samsung;Galaxy A;A41;Écran;Origine;110;;;
-Samsung;Galaxy A;A31;Écran;Compatible;80;;;
-Samsung;Galaxy A;A31;Écran;Origine;120;;;
-Samsung;Galaxy A;A34;Écran;Compatible;80;;;
-Samsung;Galaxy A;A34;Écran;Origine;120;;;
-Samsung;Galaxy A;A35;Écran;Compatible;120;;;
-Samsung;Galaxy A;A35;Écran;Origine;120;;;
-Samsung;Galaxy A;A42;Écran;Compatible;80;;;
-Samsung;Galaxy A;A42 5G;Écran;Compatible;80;;;
-Samsung;Galaxy A;A42;Écran;Origine;110;;;
-Samsung;Galaxy A;A42 5G;Écran;Origine;110;;;
-Samsung;Galaxy A;A50;Écran;Compatible;80;;;
-Samsung;Galaxy A;A50 S;Écran;Compatible;80;;;
-Samsung;Galaxy A;A50;Écran;Origine;110;;;
-Samsung;Galaxy A;A50 S;Écran;Origine;110;;;
-Samsung;Galaxy A;A51;Écran;Compatible;100;;;
-Samsung;Galaxy A;A51 5G;Écran;Compatible;100;;;
-Samsung;Galaxy A;A51;Écran;Origine;130;;;
-Samsung;Galaxy A;A51 5G;Écran;Origine;130;;;
-Samsung;Galaxy A;A52;Écran;Compatible;100;;;
-Samsung;Galaxy A;A52 S;Écran;Compatible;100;;;
-Samsung;Galaxy A;A52 5G;Écran;Compatible;100;;;
-Samsung;Galaxy A;A52;Écran;Origine;140;;;
-Samsung;Galaxy A;A52 S;Écran;Origine;140;;;
-Samsung;Galaxy A;A52 5G;Écran;Origine;140;;;
-Samsung;Galaxy A;A53;Écran;Compatible;100;;;
-Samsung;Galaxy A;A53 5G;Écran;Compatible;100;;;
-Samsung;Galaxy A;A53;Écran;Origine;180;;;
-Samsung;Galaxy A;A53 5G;Écran;Origine;180;;;
-Samsung;Galaxy A;A54;Écran;Compatible;100;;;
-Samsung;Galaxy A;A54 5G;Écran;Compatible;100;;;
-Samsung;Galaxy A;A54;Écran;Origine;130;;;
-Samsung;Galaxy A;A55;Écran;Compatible;100;;;
-Samsung;Galaxy A;A55;Écran;Origine;130;;;
-Samsung;Galaxy A;A70;Écran;Compatible;70;;;
-Samsung;Galaxy A;A70;Écran;Origine;120;;;
-Samsung;Galaxy A;A80;Écran;Compatible;130;;;
-Samsung;Galaxy A;A80;Écran;Origine;180;;;
-Samsung;Galaxy A;A02;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A02 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A02;Batterie;Origine;60;;;
-Samsung;Galaxy A;A02 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A03;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A03 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A03;Batterie;Origine;60;;;
-Samsung;Galaxy A;A03 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A03 CORE;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A03 CORE;Batterie;Origine;60;;;
-Samsung;Galaxy A;A04 E;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A04 E;Batterie;Origine;60;;;
-Samsung;Galaxy A;A04;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A04 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A04;Batterie;Origine;60;;;
-Samsung;Galaxy A;A04 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A05;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A05 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A05;Batterie;Origine;60;;;
-Samsung;Galaxy A;A05 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A10;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A10 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A10;Batterie;Origine;60;;;
-Samsung;Galaxy A;A10 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A11;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A11;Batterie;Origine;60;;;
-Samsung;Galaxy A;A12;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A12;Batterie;Origine;60;;;
-Samsung;Galaxy A;A13;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A13 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A13;Batterie;Origine;60;;;
-Samsung;Galaxy A;A13 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A14;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A14 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A14;Batterie;Origine;60;;;
-Samsung;Galaxy A;A14 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A15;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A15 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A15;Batterie;Origine;60;;;
-Samsung;Galaxy A;A15 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A20;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A20 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A20 E;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A20;Batterie;Origine;60;;;
-Samsung;Galaxy A;A20 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A20 E;Batterie;Origine;60;;;
-Samsung;Galaxy A;A20E;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A20 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A20E;Batterie;Origine;60;;;
-Samsung;Galaxy A;A20 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A21S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A21S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A22;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A22 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A22;Batterie;Origine;60;;;
-Samsung;Galaxy A;A22 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A23;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A23 G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A23;Batterie;Origine;60;;;
-Samsung;Galaxy A;A23 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A24;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A24;Batterie;Origine;60;;;
-Samsung;Galaxy A;A25;Batterie;Origine;60;;;
-Samsung;Galaxy A;A30;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A30S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A30;Batterie;Origine;60;;;
-Samsung;Galaxy A;A30S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A32;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A32 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A32;Batterie;Origine;60;;;
-Samsung;Galaxy A;A32 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A33;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A33 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A33;Batterie;Origine;60;;;
-Samsung;Galaxy A;A33 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A40;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A40;Batterie;Origine;60;;;
-Samsung;Galaxy A;A41;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A41;Batterie;Origine;60;;;
-Samsung;Galaxy A;A31;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A31;Batterie;Origine;60;;;
-Samsung;Galaxy A;A34;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A34;Batterie;Origine;60;;;
-Samsung;Galaxy A;A35;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A35;Batterie;Origine;60;;;
-Samsung;Galaxy A;A42;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A42 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A42;Batterie;Origine;60;;;
-Samsung;Galaxy A;A42 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A50;Batterie;Compatible;40;;;PRIX
-Samsung;Galaxy A;A50 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A50;Batterie;Origine;60;;;
-Samsung;Galaxy A;A50 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A51;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A51 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A51;Batterie;Origine;60;;;
-Samsung;Galaxy A;A51 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A52;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A52 S;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A52 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A52;Batterie;Origine;60;;;
-Samsung;Galaxy A;A52 S;Batterie;Origine;60;;;
-Samsung;Galaxy A;A52 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A53;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A53 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A53;Batterie;Origine;60;;;
-Samsung;Galaxy A;A53 5G;Batterie;Origine;60;;;
-Samsung;Galaxy A;A54;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A54 5G;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A54;Batterie;Origine;60;;;
-Samsung;Galaxy A;A55;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A55;Batterie;Origine;60;;;
-Samsung;Galaxy A;A70;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A70;Batterie;Origine;60;;;
-Samsung;Galaxy A;A80;Batterie;Compatible;40;;;
-Samsung;Galaxy A;A80;Batterie;Origine;60;;;
-Samsung;Galaxy S;S6;Écran;Origine;100;;;
-Samsung;Galaxy S;S6;Écran;Compatible;80;;;
-Samsung;Galaxy S;S6 EDGE;Écran;Origine;110;;;
-Samsung;Galaxy S;S6 EDGE +;Écran;Origine;120;;;
-Samsung;Galaxy S;S7;Écran;Origine;110;;;
-Samsung;Galaxy S;S7 EDGE;Écran;Origine;160;;GALAXY S;PRIX
-Samsung;Galaxy S;S8;Écran;Origine;160;;;
-Samsung;Galaxy S;S8+;Écran;Origine;190;;;
-Samsung;Galaxy S;S9;Écran;Origine;160;;;
-Samsung;Galaxy S;S9+;Écran;Origine;190;;;
-Samsung;Galaxy S;S10 E;Écran;Compatible;110;;;
-Samsung;Galaxy S;S10 E;Écran;Origine;160;;;
-Samsung;Galaxy S;S10;Écran;Origine;220;;GALAXY S;PRIX
-Samsung;Galaxy S;S10;Écran;Compatible;110;;;
-Samsung;Galaxy S;S10 +;Écran;Origine;260;;;
-Samsung;Galaxy S;S10 +;Écran;Compatible;110;;;
-Samsung;Galaxy S;S10 5G;Écran;Origine;250;;;
-Samsung;Galaxy S;S10 LITE;Écran;Origine;170;;;
-Samsung;Galaxy S;S10 LITE;Écran;Compatible;120;;;
-Samsung;Galaxy S;S20 FE (5G);Écran;Origine;170;;;
-Samsung;Galaxy S;S20 FE (5G);Écran;Compatible;120;;;
-Samsung;Galaxy S;S20 (5G);Écran;Origine;230;;;
-Samsung;Galaxy S;S20 (5G);Écran;Compatible;120;;;
-Samsung;Galaxy S;S20 + (5G);Écran;Origine;230;;;
-Samsung;Galaxy S;S20 + (5G);Écran;Compatible;140;;;
-Samsung;Galaxy S;S20 ULTRA;Écran;Origine;240;;;
-Samsung;Galaxy S;S20 ULTRA;Écran;Compatible;160;;;
-Samsung;Galaxy S;S21 FE;Écran;Origine;190;;;
-Samsung;Galaxy S;S21 FE;Écran;Compatible;120;;;
-Samsung;Galaxy S;S21;Écran;Origine;230;;;
-Samsung;Galaxy S;S21;Écran;Compatible;120;;;
-Samsung;Galaxy S;S21 +;Écran;Origine;240;;;
-Samsung;Galaxy S;S21 +;Écran;Compatible;170;;;
-Samsung;Galaxy S;S21 ULTRA;Écran;Origine;320;;;
-Samsung;Galaxy S;S21 ULTRA;Écran;Compatible;180;;;
-Samsung;Galaxy S;S22;Écran;Origine;210;;;
-Samsung;Galaxy S;S22 +;Écran;Origine;230;;;
-Samsung;Galaxy S;S22 +;Écran;Compatible;130;;;
-Samsung;Galaxy S;S22 ULTRA;Écran;Origine;300;;;
-Samsung;Galaxy S;S23 FE;Écran;Origine;180;;;
-Samsung;Galaxy S;S23;Écran;Origine;230;;;
-Samsung;Galaxy S;S23 +;Écran;Origine;230;;;
-Samsung;Galaxy S;S23 +;Écran;Compatible;140;;;
-Samsung;Galaxy S;S23 ULTRA;Écran;Origine;380;;;
-Samsung;Galaxy S;S24;Écran;Origine;260;;;
-Samsung;Galaxy S;S24 +;Écran;Origine;290;;;
-Samsung;Galaxy S;S24 ULTRA;Écran;Origine;450;;;
+﻿Marque;Série;Modèle;Type de réparation;Qualité;Prix Standard (€)
+Apple;iPhone;iPhone 6;Écran;Compatible;40
+Apple;iPhone;iPhone 6;Châssis;Compatible;60
+Apple;iPhone;iPhone 6S;Écran;Compatible;40
+Apple;iPhone;iPhone 6S;Châssis;Compatible;60
+Apple;iPhone;iPhone 6S Plus;Écran;Compatible;40
+Apple;iPhone;iPhone 6S Plus;Châssis;Compatible;60
+Apple;iPhone;iPhone SE 2016;Écran;Compatible;40
+Apple;iPhone;iPhone SE 2016;Châssis;Compatible;50
+Apple;iPhone;iPhone 7;Écran;Compatible;40
+Apple;iPhone;iPhone 7;Châssis;Compatible;60
+Apple;iPhone;iPhone 7 Plus;Écran;Compatible;50
+Apple;iPhone;iPhone 7 Plus;Châssis;Compatible;70
+Apple;iPhone;iPhone 8;Écran;Compatible;50
+Apple;iPhone;iPhone 8;Châssis;Compatible;80
+Apple;iPhone;iPhone 8 Plus;Écran;Compatible;60
+Apple;iPhone;iPhone 8 Plus;Châssis;Compatible;90
+Apple;iPhone;iPhone X;Écran;Compatible;60
+Apple;iPhone;iPhone X;Écran;Origine;120
+Apple;iPhone;iPhone X;Châssis;Compatible;110
+Apple;iPhone;iPhone XS;Écran;Compatible;60
+Apple;iPhone;iPhone XS;Écran;Origine;120
+Apple;iPhone;iPhone XS;Châssis;Compatible;110
+Apple;iPhone;iPhone XS Max;Écran;Compatible;70
+Apple;iPhone;iPhone XS Max;Écran;Origine;130
+Apple;iPhone;iPhone XS Max;Châssis;Compatible;120
+Apple;iPhone;iPhone XR;Écran;Compatible;70
+Apple;iPhone;iPhone XR;Écran;Origine;100
+Apple;iPhone;iPhone XR;Châssis;Compatible;110
+Apple;iPhone;iPhone SE 2020;Écran;Compatible;40
+Apple;iPhone;iPhone SE 2020;Écran;Origine;80
+Apple;iPhone;iPhone SE 2020;Châssis;Compatible;80
+Apple;iPhone;iPhone 11;Écran;Compatible;70
+Apple;iPhone;iPhone 11;Écran;Origine;100
+Apple;iPhone;iPhone 11;Châssis;Compatible;120
+Apple;iPhone;iPhone 11 Pro;Écran;Compatible;70
+Apple;iPhone;iPhone 11 Pro;Écran;Origine;140
+Apple;iPhone;iPhone 11 Pro;Châssis;Compatible;160
+Apple;iPhone;iPhone 11 Pro Max;Écran;Compatible;80
+Apple;iPhone;iPhone 11 Pro Max;Écran;Origine;170
+Apple;iPhone;iPhone 11 Pro Max;Châssis;Compatible;170
+Apple;iPhone;iPhone 12 Mini;Écran;Compatible;120
+Apple;iPhone;iPhone 12 Mini;Écran;Origine;180
+Apple;iPhone;iPhone 12 Mini;Châssis;Compatible;140
+Apple;iPhone;iPhone 12;Écran;Compatible;120
+Apple;iPhone;iPhone 12;Écran;Origine;180
+Apple;iPhone;iPhone 12;Châssis;Compatible;130
+Apple;iPhone;iPhone 12 Pro;Écran;Compatible;120
+Apple;iPhone;iPhone 12 Pro;Écran;Origine;190
+Apple;iPhone;iPhone 12 Pro;Châssis;Compatible;160
+Apple;iPhone;iPhone 12 Pro Max;Écran;Compatible;120
+Apple;iPhone;iPhone 12 Pro Max;Écran;Origine;220
+Apple;iPhone;iPhone 12 Pro Max;Châssis;Compatible;180
+Apple;iPhone;iPhone 13 Mini;Écran;Compatible;140
+Apple;iPhone;iPhone 13 Mini;Écran;Origine;230
+Apple;iPhone;iPhone 13 Mini;Châssis;Compatible;150
+Apple;iPhone;iPhone 13;Écran;Compatible;140
+Apple;iPhone;iPhone 13;Écran;Origine;180
+Apple;iPhone;iPhone 13;Châssis;Compatible;150
+Apple;iPhone;iPhone 13 Pro;Écran;Compatible;150
+Apple;iPhone;iPhone 13 Pro;Écran;Origine;350
+Apple;iPhone;iPhone 13 Pro;Châssis;Compatible;180
+Apple;iPhone;iPhone 13 Pro Max;Écran;Compatible;160
+Apple;iPhone;iPhone 13 Pro Max;Écran;Origine;400
+Apple;iPhone;iPhone 13 Pro Max;Châssis;Compatible;220
+Apple;iPhone;iPhone SE 2022;Écran;Compatible;60
+Apple;iPhone;iPhone SE 2022;Écran;Origine;80
+Apple;iPhone;iPhone SE 2022;Châssis;Compatible;80
+Apple;iPhone;iPhone 14;Écran;Compatible;170
+Apple;iPhone;iPhone 14;Écran;Origine;230
+Apple;iPhone;iPhone 14;Châssis;Compatible;180
+Apple;iPhone;iPhone 14 Plus;Écran;Compatible;180
+Apple;iPhone;iPhone 14 Plus;Écran;Origine;250
+Apple;iPhone;iPhone 14 Plus;Châssis;Compatible;200
+Apple;iPhone;iPhone 14 Pro;Écran;Compatible;190
+Apple;iPhone;iPhone 14 Pro;Écran;Origine;420
+Apple;iPhone;iPhone 14 Pro;Châssis;Compatible;230
+Apple;iPhone;iPhone 14 Pro Max;Écran;Compatible;200
+Apple;iPhone;iPhone 14 Pro Max;Écran;Origine;460
+Apple;iPhone;iPhone 14 Pro Max;Châssis;Compatible;250
+Apple;iPhone;iPhone 15;Écran;Compatible;200
+Apple;iPhone;iPhone 15;Écran;Origine;420
+Apple;iPhone;iPhone 15;Châssis;Compatible;300
+Apple;iPhone;iPhone 15 Plus;Écran;Compatible;210
+Apple;iPhone;iPhone 15 Plus;Écran;Origine;400
+Apple;iPhone;iPhone 15 Plus;Châssis;Compatible;330
+Apple;iPhone;iPhone 15 Pro;Écran;Compatible;210
+Apple;iPhone;iPhone 15 Pro;Écran;Origine;500
+Apple;iPhone;iPhone 15 Pro;Châssis;Compatible;370
+Apple;iPhone;iPhone 15 Pro Max;Écran;Compatible;230
+Apple;iPhone;iPhone 15 Pro Max;Écran;Origine;560
+Apple;iPhone;iPhone 15 Pro Max;Châssis;Compatible;400
+Samsung;Galaxy A;A02;Écran;Compatible;70
+Samsung;Galaxy A;A02 S;Écran;Compatible;70
+Samsung;Galaxy A;A02;Écran;Origine;90
+Samsung;Galaxy A;A02 S;Écran;Origine;90
+Samsung;Galaxy A;A03;Écran;Compatible;70
+Samsung;Galaxy A;A03 S;Écran;Compatible;70
+Samsung;Galaxy A;A03;Écran;Origine;90
+Samsung;Galaxy A;A03 S;Écran;Origine;90
+Samsung;Galaxy A;A03 CORE;Écran;Compatible;70
+Samsung;Galaxy A;A03 CORE;Écran;Origine;90
+Samsung;Galaxy A;A04 E;Écran;Compatible;70
+Samsung;Galaxy A;A04 E;Écran;Origine;90
+Samsung;Galaxy A;A04;Écran;Compatible;70
+Samsung;Galaxy A;A04 S;Écran;Compatible;70
+Samsung;Galaxy A;A04;Écran;Origine;90
+Samsung;Galaxy A;A04 S;Écran;Origine;90
+Samsung;Galaxy A;A05;Écran;Compatible;70
+Samsung;Galaxy A;A05 S;Écran;Compatible;70
+Samsung;Galaxy A;A05;Écran;Origine;90
+Samsung;Galaxy A;A05 S;Écran;Origine;90
+Samsung;Galaxy A;A10;Écran;Compatible;70
+Samsung;Galaxy A;A10 S;Écran;Compatible;70
+Samsung;Galaxy A;A10;Écran;Origine;90
+Samsung;Galaxy A;A10 S;Écran;Origine;90
+Samsung;Galaxy A;A11;Écran;Compatible;70
+Samsung;Galaxy A;A11;Écran;Origine;90
+Samsung;Galaxy A;A12;Écran;Compatible;70
+Samsung;Galaxy A;A12;Écran;Origine;90
+Samsung;Galaxy A;A13;Écran;Compatible;70
+Samsung;Galaxy A;A13 5G;Écran;Compatible;70
+Samsung;Galaxy A;A13;Écran;Origine;100
+Samsung;Galaxy A;A13 5G;Écran;Origine;100
+Samsung;Galaxy A;A14;Écran;Compatible;70
+Samsung;Galaxy A;A14 5G;Écran;Compatible;70
+Samsung;Galaxy A;A14;Écran;Origine;100
+Samsung;Galaxy A;A14 5G;Écran;Origine;100
+Samsung;Galaxy A;A15;Écran;Compatible;70
+Samsung;Galaxy A;A15 5G;Écran;Compatible;70
+Samsung;Galaxy A;A15;Écran;Origine;100
+Samsung;Galaxy A;A15 5G;Écran;Origine;100
+Samsung;Galaxy A;A20;Écran;Compatible;70
+Samsung;Galaxy A;A20 S;Écran;Compatible;70
+Samsung;Galaxy A;A20 E;Écran;Compatible;70
+Samsung;Galaxy A;A20;Écran;Origine;100
+Samsung;Galaxy A;A20 S;Écran;Origine;100
+Samsung;Galaxy A;A20 E;Écran;Origine;100
+Samsung;Galaxy A;A20E;Écran;Compatible;70
+Samsung;Galaxy A;A20 S;Écran;Compatible;70
+Samsung;Galaxy A;A20E;Écran;Origine;100
+Samsung;Galaxy A;A20 S;Écran;Origine;100
+Samsung;Galaxy A;A21S;Écran;Compatible;80
+Samsung;Galaxy A;A21S;Écran;Origine;110
+Samsung;Galaxy A;A22;Écran;Compatible;80
+Samsung;Galaxy A;A22 5G;Écran;Compatible;80
+Samsung;Galaxy A;A22;Écran;Origine;110
+Samsung;Galaxy A;A22 5G;Écran;Origine;110
+Samsung;Galaxy A;A23;Écran;Compatible;80
+Samsung;Galaxy A;A23 G;Écran;Compatible;80
+Samsung;Galaxy A;A23;Écran;Origine;110
+Samsung;Galaxy A;A23 5G;Écran;Origine;110
+Samsung;Galaxy A;A24;Écran;Compatible;100
+Samsung;Galaxy A;A24;Écran;Origine;110
+Samsung;Galaxy A;A25;Écran;Origine;120
+Samsung;Galaxy A;A30;Écran;Compatible;80
+Samsung;Galaxy A;A30S;Écran;Compatible;80
+Samsung;Galaxy A;A30;Écran;Origine;110
+Samsung;Galaxy A;A30S;Écran;Origine;110
+Samsung;Galaxy A;A32;Écran;Compatible;80
+Samsung;Galaxy A;A32 5G;Écran;Compatible;80
+Samsung;Galaxy A;A32;Écran;Origine;110
+Samsung;Galaxy A;A32 5G;Écran;Origine;110
+Samsung;Galaxy A;A33;Écran;Compatible;80
+Samsung;Galaxy A;A33 5G;Écran;Compatible;80
+Samsung;Galaxy A;A33;Écran;Origine;110
+Samsung;Galaxy A;A33 5G;Écran;Origine;110
+Samsung;Galaxy A;A40;Écran;Compatible;80
+Samsung;Galaxy A;A40;Écran;Origine;110
+Samsung;Galaxy A;A41;Écran;Compatible;80
+Samsung;Galaxy A;A41;Écran;Origine;110
+Samsung;Galaxy A;A31;Écran;Compatible;80
+Samsung;Galaxy A;A31;Écran;Origine;120
+Samsung;Galaxy A;A34;Écran;Compatible;80
+Samsung;Galaxy A;A34;Écran;Origine;120
+Samsung;Galaxy A;A35;Écran;Compatible;120
+Samsung;Galaxy A;A35;Écran;Origine;120
+Samsung;Galaxy A;A42;Écran;Compatible;80
+Samsung;Galaxy A;A42 5G;Écran;Compatible;80
+Samsung;Galaxy A;A42;Écran;Origine;110
+Samsung;Galaxy A;A42 5G;Écran;Origine;110
+Samsung;Galaxy A;A50;Écran;Compatible;80
+Samsung;Galaxy A;A50 S;Écran;Compatible;80
+Samsung;Galaxy A;A50;Écran;Origine;110
+Samsung;Galaxy A;A50 S;Écran;Origine;110
+Samsung;Galaxy A;A51;Écran;Compatible;100
+Samsung;Galaxy A;A51 5G;Écran;Compatible;100
+Samsung;Galaxy A;A51;Écran;Origine;130
+Samsung;Galaxy A;A51 5G;Écran;Origine;130
+Samsung;Galaxy A;A52;Écran;Compatible;100
+Samsung;Galaxy A;A52 S;Écran;Compatible;100
+Samsung;Galaxy A;A52 5G;Écran;Compatible;100
+Samsung;Galaxy A;A52;Écran;Origine;140
+Samsung;Galaxy A;A52 S;Écran;Origine;140
+Samsung;Galaxy A;A52 5G;Écran;Origine;140
+Samsung;Galaxy A;A53;Écran;Compatible;100
+Samsung;Galaxy A;A53 5G;Écran;Compatible;100
+Samsung;Galaxy A;A53;Écran;Origine;180
+Samsung;Galaxy A;A53 5G;Écran;Origine;180
+Samsung;Galaxy A;A54;Écran;Compatible;100
+Samsung;Galaxy A;A54 5G;Écran;Compatible;100
+Samsung;Galaxy A;A54;Écran;Origine;130
+Samsung;Galaxy A;A55;Écran;Compatible;100
+Samsung;Galaxy A;A55;Écran;Origine;130
+Samsung;Galaxy A;A70;Écran;Compatible;70
+Samsung;Galaxy A;A70;Écran;Origine;120
+Samsung;Galaxy A;A80;Écran;Compatible;130
+Samsung;Galaxy A;A80;Écran;Origine;180
+Samsung;Galaxy A;A02;Batterie;Compatible;40
+Samsung;Galaxy A;A02 S;Batterie;Compatible;40
+Samsung;Galaxy A;A02;Batterie;Origine;60
+Samsung;Galaxy A;A02 S;Batterie;Origine;60
+Samsung;Galaxy A;A03;Batterie;Compatible;40
+Samsung;Galaxy A;A03 S;Batterie;Compatible;40
+Samsung;Galaxy A;A03;Batterie;Origine;60
+Samsung;Galaxy A;A03 S;Batterie;Origine;60
+Samsung;Galaxy A;A03 CORE;Batterie;Compatible;40
+Samsung;Galaxy A;A03 CORE;Batterie;Origine;60
+Samsung;Galaxy A;A04 E;Batterie;Compatible;40
+Samsung;Galaxy A;A04 E;Batterie;Origine;60
+Samsung;Galaxy A;A04;Batterie;Compatible;40
+Samsung;Galaxy A;A04 S;Batterie;Compatible;40
+Samsung;Galaxy A;A04;Batterie;Origine;60
+Samsung;Galaxy A;A04 S;Batterie;Origine;60
+Samsung;Galaxy A;A05;Batterie;Compatible;40
+Samsung;Galaxy A;A05 S;Batterie;Compatible;40
+Samsung;Galaxy A;A05;Batterie;Origine;60
+Samsung;Galaxy A;A05 S;Batterie;Origine;60
+Samsung;Galaxy A;A10;Batterie;Compatible;40
+Samsung;Galaxy A;A10 S;Batterie;Compatible;40
+Samsung;Galaxy A;A10;Batterie;Origine;60
+Samsung;Galaxy A;A10 S;Batterie;Origine;60
+Samsung;Galaxy A;A11;Batterie;Compatible;40
+Samsung;Galaxy A;A11;Batterie;Origine;60
+Samsung;Galaxy A;A12;Batterie;Compatible;40
+Samsung;Galaxy A;A12;Batterie;Origine;60
+Samsung;Galaxy A;A13;Batterie;Compatible;40
+Samsung;Galaxy A;A13 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A13;Batterie;Origine;60
+Samsung;Galaxy A;A13 5G;Batterie;Origine;60
+Samsung;Galaxy A;A14;Batterie;Compatible;40
+Samsung;Galaxy A;A14 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A14;Batterie;Origine;60
+Samsung;Galaxy A;A14 5G;Batterie;Origine;60
+Samsung;Galaxy A;A15;Batterie;Compatible;40
+Samsung;Galaxy A;A15 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A15;Batterie;Origine;60
+Samsung;Galaxy A;A15 5G;Batterie;Origine;60
+Samsung;Galaxy A;A20;Batterie;Compatible;40
+Samsung;Galaxy A;A20 S;Batterie;Compatible;40
+Samsung;Galaxy A;A20 E;Batterie;Compatible;40
+Samsung;Galaxy A;A20;Batterie;Origine;60
+Samsung;Galaxy A;A20 S;Batterie;Origine;60
+Samsung;Galaxy A;A20 E;Batterie;Origine;60
+Samsung;Galaxy A;A20E;Batterie;Compatible;40
+Samsung;Galaxy A;A20 S;Batterie;Compatible;40
+Samsung;Galaxy A;A20E;Batterie;Origine;60
+Samsung;Galaxy A;A20 S;Batterie;Origine;60
+Samsung;Galaxy A;A21S;Batterie;Compatible;40
+Samsung;Galaxy A;A21S;Batterie;Origine;60
+Samsung;Galaxy A;A22;Batterie;Compatible;40
+Samsung;Galaxy A;A22 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A22;Batterie;Origine;60
+Samsung;Galaxy A;A22 5G;Batterie;Origine;60
+Samsung;Galaxy A;A23;Batterie;Compatible;40
+Samsung;Galaxy A;A23 G;Batterie;Compatible;40
+Samsung;Galaxy A;A23;Batterie;Origine;60
+Samsung;Galaxy A;A23 5G;Batterie;Origine;60
+Samsung;Galaxy A;A24;Batterie;Compatible;40
+Samsung;Galaxy A;A24;Batterie;Origine;60
+Samsung;Galaxy A;A25;Batterie;Origine;60
+Samsung;Galaxy A;A30;Batterie;Compatible;40
+Samsung;Galaxy A;A30S;Batterie;Compatible;40
+Samsung;Galaxy A;A30;Batterie;Origine;60
+Samsung;Galaxy A;A30S;Batterie;Origine;60
+Samsung;Galaxy A;A32;Batterie;Compatible;40
+Samsung;Galaxy A;A32 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A32;Batterie;Origine;60
+Samsung;Galaxy A;A32 5G;Batterie;Origine;60
+Samsung;Galaxy A;A33;Batterie;Compatible;40
+Samsung;Galaxy A;A33 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A33;Batterie;Origine;60
+Samsung;Galaxy A;A33 5G;Batterie;Origine;60
+Samsung;Galaxy A;A40;Batterie;Compatible;40
+Samsung;Galaxy A;A40;Batterie;Origine;60
+Samsung;Galaxy A;A41;Batterie;Compatible;40
+Samsung;Galaxy A;A41;Batterie;Origine;60
+Samsung;Galaxy A;A31;Batterie;Compatible;40
+Samsung;Galaxy A;A31;Batterie;Origine;60
+Samsung;Galaxy A;A34;Batterie;Compatible;40
+Samsung;Galaxy A;A34;Batterie;Origine;60
+Samsung;Galaxy A;A35;Batterie;Compatible;40
+Samsung;Galaxy A;A35;Batterie;Origine;60
+Samsung;Galaxy A;A42;Batterie;Compatible;40
+Samsung;Galaxy A;A42 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A42;Batterie;Origine;60
+Samsung;Galaxy A;A42 5G;Batterie;Origine;60
+Samsung;Galaxy A;A50;Batterie;Compatible;40
+Samsung;Galaxy A;A50 S;Batterie;Compatible;40
+Samsung;Galaxy A;A50;Batterie;Origine;60
+Samsung;Galaxy A;A50 S;Batterie;Origine;60
+Samsung;Galaxy A;A51;Batterie;Compatible;40
+Samsung;Galaxy A;A51 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A51;Batterie;Origine;60
+Samsung;Galaxy A;A51 5G;Batterie;Origine;60
+Samsung;Galaxy A;A52;Batterie;Compatible;40
+Samsung;Galaxy A;A52 S;Batterie;Compatible;40
+Samsung;Galaxy A;A52 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A52;Batterie;Origine;60
+Samsung;Galaxy A;A52 S;Batterie;Origine;60
+Samsung;Galaxy A;A52 5G;Batterie;Origine;60
+Samsung;Galaxy A;A53;Batterie;Compatible;40
+Samsung;Galaxy A;A53 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A53;Batterie;Origine;60
+Samsung;Galaxy A;A53 5G;Batterie;Origine;60
+Samsung;Galaxy A;A54;Batterie;Compatible;40
+Samsung;Galaxy A;A54 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A54;Batterie;Origine;60
+Samsung;Galaxy A;A55;Batterie;Compatible;40
+Samsung;Galaxy A;A55;Batterie;Origine;60
+Samsung;Galaxy A;A70;Batterie;Compatible;40
+Samsung;Galaxy A;A70;Batterie;Origine;60
+Samsung;Galaxy A;A80;Batterie;Compatible;40
+Samsung;Galaxy A;A80;Batterie;Origine;60
+Samsung;Galaxy S;S6;Écran;Origine;100
+Samsung;Galaxy S;S6;Écran;Compatible;80
+Samsung;Galaxy S;S6 EDGE;Écran;Origine;110
+Samsung;Galaxy S;S6 EDGE +;Écran;Origine;120
+Samsung;Galaxy S;S7;Écran;Origine;110
+Samsung;Galaxy S;S7 EDGE;Écran;Origine;160
+Samsung;Galaxy S;S8;Écran;Origine;160
+Samsung;Galaxy S;S8+;Écran;Origine;190
+Samsung;Galaxy S;S9;Écran;Origine;160
+Samsung;Galaxy S;S9+;Écran;Origine;190
+Samsung;Galaxy S;S10 E;Écran;Compatible;110
+Samsung;Galaxy S;S10 E;Écran;Origine;160
+Samsung;Galaxy S;S10;Écran;Origine;220
+Samsung;Galaxy S;S10;Écran;Compatible;110
+Samsung;Galaxy S;S10 +;Écran;Origine;260
+Samsung;Galaxy S;S10 +;Écran;Compatible;110
+Samsung;Galaxy S;S10 5G;Écran;Origine;250
+Samsung;Galaxy S;S10 LITE;Écran;Origine;170
+Samsung;Galaxy S;S10 LITE;Écran;Compatible;120
+Samsung;Galaxy S;S20 FE (5G);Écran;Origine;170
+Samsung;Galaxy S;S20 FE (5G);Écran;Compatible;120
+Samsung;Galaxy S;S20 (5G);Écran;Origine;230
+Samsung;Galaxy S;S20 (5G);Écran;Compatible;120
+Samsung;Galaxy S;S20 + (5G);Écran;Origine;230
+Samsung;Galaxy S;S20 + (5G);Écran;Compatible;140
+Samsung;Galaxy S;S20 ULTRA;Écran;Origine;240
+Samsung;Galaxy S;S20 ULTRA;Écran;Compatible;160
+Samsung;Galaxy S;S21 FE;Écran;Origine;190
+Samsung;Galaxy S;S21 FE;Écran;Compatible;120
+Samsung;Galaxy S;S21;Écran;Origine;230
+Samsung;Galaxy S;S21;Écran;Compatible;120
+Samsung;Galaxy S;S21 +;Écran;Origine;240
+Samsung;Galaxy S;S21 +;Écran;Compatible;170
+Samsung;Galaxy S;S21 ULTRA;Écran;Origine;320
+Samsung;Galaxy S;S21 ULTRA;Écran;Compatible;180
+Samsung;Galaxy S;S22;Écran;Origine;210
+Samsung;Galaxy S;S22 +;Écran;Origine;230
+Samsung;Galaxy S;S22 +;Écran;Compatible;130
+Samsung;Galaxy S;S22 ULTRA;Écran;Origine;300
+Samsung;Galaxy S;S23 FE;Écran;Origine;180
+Samsung;Galaxy S;S23;Écran;Origine;230
+Samsung;Galaxy S;S23 +;Écran;Origine;230
+Samsung;Galaxy S;S23 +;Écran;Compatible;140
+Samsung;Galaxy S;S23 ULTRA;Écran;Origine;380
+Samsung;Galaxy S;S24;Écran;Origine;260
+Samsung;Galaxy S;S24 +;Écran;Origine;290
+Samsung;Galaxy S;S24 ULTRA;Écran;Origine;450
+Google;Pixel;Pixel 4A (5G);Écran;Origine;180
+Google;Pixel;Pixel 4 XL;Écran;Origine;110
+Google;Pixel;Pixel 4;Écran;Origine;100
+Google;Pixel;Pixel 3A XL;Écran;Origine;130
+Google;Pixel;Pixel 3A;Écran;Origine;110
+Google;Pixel;Pixel 5;Écran;Origine;260
+Google;Pixel;Pixel 5;Écran;Compatible;240
+Google;Pixel;Pixel 5A;Écran;Origine;210
+Google;Pixel;Pixel 6A;Écran;Origine;190
+Google;Pixel;Pixel 6;Écran;Origine;230
+Google;Pixel;Pixel 6;Écran;Compatible;180
+Google;Pixel;Pixel 6 Pro;Écran;Origine;270
+Google;Pixel;Pixel 7;Écran;Origine;220
+Google;Pixel;Pixel 7;Écran;Compatible;200
+Google;Pixel;Pixel 7A;Écran;Origine;200
+Google;Pixel;Pixel 7A;Écran;Compatible;170
+Google;Pixel;Pixel 7 Pro;Écran;Origine;250
+Google;Pixel;Pixel 7 Pro;Écran;Compatible;150
+Google;Pixel;Pixel 8;Écran;Origine;230
+Google;Pixel;Pixel 8 Pro;Écran;Origine;260
+Google;Pixel;Pixel 4A (5G);Batterie;Origine;60
+Google;Pixel;Pixel 4 XL;Batterie;Origine;60
+Google;Pixel;Pixel 4;Batterie;Origine;60
+Google;Pixel;Pixel 3A XL;Batterie;Origine;60
+Google;Pixel;Pixel 3A;Batterie;Origine;60
+Google;Pixel;Pixel 5;Batterie;Origine;60
+Google;Pixel;Pixel 5A;Batterie;Origine;60
+Google;Pixel;Pixel 6A;Batterie;Origine;60
+Google;Pixel;Pixel 6;Batterie;Origine;60
+Google;Pixel;Pixel 6 Pro;Batterie;Origine;60
+Google;Pixel;Pixel 7;Batterie;Origine;60
+Google;Pixel;Pixel 7A;Batterie;Origine;60
+Google;Pixel;Pixel 7 Pro;Batterie;Origine;60
+Google;Pixel;Pixel 8;Batterie;Origine;60
+Google;Pixel;Pixel 8 Pro;Batterie;Origine;60
+Xiaomi;Mi;Mi 9 Lite;Écran;Compatible;100
+Xiaomi;Mi;Mi 9;Écran;Compatible;90
+Xiaomi;Mi;Mi 9 SE;Écran;Origine;150
+Xiaomi;Mi;Mi 9T;Écran;Compatible;110
+Xiaomi;Mi;Mi 9T Pro;Écran;Compatible;120
+Xiaomi;Mi;Mi 10 Lite 5G;Écran;Origine;110
+Xiaomi;Mi;Mi 10 5G;Écran;Origine;130
+Xiaomi;Mi;Mi 10 Pro 5G;Écran;Compatible;220
+Xiaomi;Mi;Mi 10T Lite 5G;Écran;Compatible;100
+Xiaomi;Mi;Mi 10T 5G;Écran;Compatible;110
+Xiaomi;Mi;Mi 10T Pro 5G;Écran;Compatible;120
+Xiaomi;Mi;Mi 11 Lite 4G;Écran;Compatible;140
+Xiaomi;Mi;Mi 11 Lite 5G;Écran;Compatible;150
+Xiaomi;Mi;11 Lite 5G NE;Écran;Origine;190
+Xiaomi;Mi;11 Lite 5G NE;Écran;Compatible;110
+Xiaomi;Mi;Mi 11 5G;Écran;Compatible;180
+Xiaomi;Mi;Mi 11i 5G;Écran;Compatible;160
+Xiaomi;Mi;Mi 11 Pro 5G;Écran;Origine;240
+Xiaomi;Mi;Mi 11 Ultra;Écran;Origine;220
+Xiaomi;Mi;11T;Écran;Origine;190
+Xiaomi;Mi;11T;Écran;Compatible;110
+Xiaomi;Mi;11T Pro;Écran;Origine;190
+Xiaomi;Mi;11T Pro;Écran;Compatible;110
+Xiaomi;Mi;12;Écran;Origine;200
+Xiaomi;Mi;12;Écran;Compatible;170
+Xiaomi;Mi;12T;Écran;Compatible;100
+Xiaomi;Mi;12X;Écran;Origine;200
+Xiaomi;Mi;12X;Écran;Compatible;170
+Xiaomi;Mi;12 Pro;Écran;Origine;270
+Xiaomi;Mi;12 Pro;Écran;Compatible;170
+Xiaomi;Mi;12T Pro;Écran;Origine;160
+Xiaomi;Mi;12T Pro;Écran;Compatible;100
+Xiaomi;Mi;13;Écran;Origine;200
+Xiaomi;Mi;13;Écran;Compatible;160
+Xiaomi;Mi;13T Pro;Écran;Origine;120
+Xiaomi;Mi;13T;Écran;Origine;120
+Xiaomi;Mi;13 Ultra;Écran;Origine;360
+Xiaomi;Mi;13 Pro;Écran;Origine;300
+Xiaomi;Mi;13 Lite;Écran;Origine;160
+Xiaomi;Mi;13 Lite;Écran;Compatible;120
+Redmi;Note;Redmi Note 9 (S) (T);Écran;Origine;100
+Redmi;Note;Redmi Note 9 (S) (T);Écran;Compatible;70
+Redmi;Note;Redmi Note 9 Pro (5G);Écran;Origine;110
+Redmi;Note;Redmi Note 9 Pro (5G);Écran;Compatible;70
+Redmi;Note;Redmi Note 10 (S) (5G);Écran;Origine;120
+Redmi;Note;Redmi Note 10 (S) (5G);Écran;Compatible;80
+Redmi;Note;Redmi Note 10 Pro;Écran;Origine;170
+Redmi;Note;Redmi Note 10 Pro;Écran;Compatible;90
+Redmi;Note;Redmi Note 11 (S) (5G);Écran;Origine;120
+Redmi;Note;Redmi Note 11 (S) (5G);Écran;Compatible;90
+Redmi;Note;Redmi Note 11 Pro (5G);Écran;Origine;170
+Redmi;Note;Redmi Note 11 Pro (5G);Écran;Compatible;100
+Redmi;Note;Redmi Note 11 Pro+ 5G;Écran;Compatible;70
+Redmi;Note;Redmi Note 12 Pro+ 5G;Écran;Origine;170
+Redmi;Note;Redmi Note 12 Pro+ 5G;Écran;Compatible;100
+Redmi;Note;Redmi Note 12 Pro (5G);Écran;Origine;170
+Redmi;Note;Redmi Note 12 Pro (5G);Écran;Compatible;100
+Redmi;Note;Redmi Note 12 (S) (5G);Écran;Origine;170
+Redmi;Note;Redmi Note 12 (S) (5G);Écran;Compatible;100
+Redmi;Note;Redmi Note 13 4G;Écran;Origine;140
+Redmi;Note;Redmi Note 13 4G;Écran;Compatible;90
+Redmi;Note;Redmi Note 13 5G;Écran;Origine;90
+Redmi;Note;Redmi Note 13 5G;Écran;Compatible;70
+Redmi;Note;Redmi Note 13 Pro (5G);Écran;Origine;120
+Redmi;Note;Redmi Note 13 Pro (5G);Écran;Compatible;70
+Redmi;Note;Redmi Note 13 Pro+ 5G;Écran;Origine;200
+Redmi;Note;Redmi Note 13 Pro+ 5G;Écran;Compatible;100
