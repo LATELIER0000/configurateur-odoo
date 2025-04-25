@@ -1,0 +1,185 @@
+﻿Marque;Série;Modèle;Batterie Compatible;Batterie Origine;Châssis Compatible;Écran Compatible;Écran Origine
+Apple;iPhone;iPhone 6;30;;60;40;
+Apple;iPhone;iPhone 6S;30;;60;40;
+Apple;iPhone;iPhone 6S Plus;40;;60;40;
+Apple;iPhone;iPhone 7;40;;60;40;
+Apple;iPhone;iPhone 7 Plus;50;;70;50;
+Apple;iPhone;iPhone 8;40;;80;50;
+Apple;iPhone;iPhone 8 Plus;50;;90;60;
+Apple;iPhone;iPhone SE 2016;30;;50;40;
+Apple;iPhone;iPhone SE 2020;40;;80;40;80
+Apple;iPhone;iPhone SE 2022;50;;80;60;80
+Apple;iPhone;iPhone X;50;;110;60;120
+Apple;iPhone;iPhone XR;50;;110;70;100
+Apple;iPhone;iPhone XS;50;;110;60;120
+Apple;iPhone;iPhone XS Max;60;;120;70;130
+Apple;iPhone;iPhone 11;50;;120;70;100
+Apple;iPhone;iPhone 11 Pro;50;;160;70;140
+Apple;iPhone;iPhone 11 Pro Max;50;;170;80;170
+Apple;iPhone;iPhone 12;60;;130;120;180
+Apple;iPhone;iPhone 12 Mini;60;;140;120;180
+Apple;iPhone;iPhone 12 Pro;60;;160;120;190
+Apple;iPhone;iPhone 12 Pro Max;60;;180;120;220
+Apple;iPhone;iPhone 13;60;;150;140;180
+Apple;iPhone;iPhone 13 Mini;50;;150;140;230
+Apple;iPhone;iPhone 13 Pro;60;;180;150;350
+Apple;iPhone;iPhone 13 Pro Max;60;;220;160;400
+Apple;iPhone;iPhone 14;60;;180;170;230
+Apple;iPhone;iPhone 14 Plus;60;;200;180;250
+Apple;iPhone;iPhone 14 Pro;60;;230;190;420
+Apple;iPhone;iPhone 14 Pro Max;60;;250;200;460
+Apple;iPhone;iPhone 15;60;;300;200;420
+Apple;iPhone;iPhone 15 Plus;70;;330;210;400
+Apple;iPhone;iPhone 15 Pro;70;;370;210;500
+Apple;iPhone;iPhone 15 Pro Max;70;;400;230;560
+Google;Pixel;Pixel 3A;40;60;;;110
+Google;Pixel;Pixel 3A XL;40;60;;;130
+Google;Pixel;Pixel 4;40;60;;;100
+Google;Pixel;Pixel 4 XL;40;60;;;110
+Google;Pixel;Pixel 4A (5G);40;60;;;180
+Google;Pixel;Pixel 5;40;60;;240;260
+Google;Pixel;Pixel 5A;40;60;;;210
+Google;Pixel;Pixel 6;40;60;;180;230
+Google;Pixel;Pixel 6 Pro;40;60;;;270
+Google;Pixel;Pixel 6A;40;60;;;190
+Google;Pixel;Pixel 7;40;60;;200;220
+Google;Pixel;Pixel 7 Pro;40;60;;150;250
+Google;Pixel;Pixel 7A;40;60;;170;200
+Google;Pixel;Pixel 8;40;60;;;230
+Google;Pixel;Pixel 8 Pro;40;60;;;260
+Redmi;Note;Redmi Note 9 (S) (T);40;60;;70;100
+Redmi;Note;Redmi Note 9 Pro (5G);40;60;;70;110
+Redmi;Note;Redmi Note 10 (S) (5G);40;60;;80;120
+Redmi;Note;Redmi Note 10 Pro;40;60;;90;170
+Redmi;Note;Redmi Note 11 (S) (5G);40;60;;90;120
+Redmi;Note;Redmi Note 11 Pro (5G);40;60;;100;170
+Redmi;Note;Redmi Note 11 Pro+ 5G;40;60;;70;
+Redmi;Note;Redmi Note 12 (S) (5G);40;60;;100;170
+Redmi;Note;Redmi Note 12 Pro (5G);40;60;;100;170
+Redmi;Note;Redmi Note 12 Pro+ 5G;40;60;;100;170
+Redmi;Note;Redmi Note 13 4G;40;60;;90;140
+Redmi;Note;Redmi Note 13 5G;40;60;;70;90
+Redmi;Note;Redmi Note 13 Pro (5G);40;60;;70;120
+Redmi;Note;Redmi Note 13 Pro+ 5G;40;60;;100;200
+Xiaomi;Mi;11 Lite 5G NE;40;60;;110;190
+Xiaomi;Mi;11T;40;60;;110;190
+Xiaomi;Mi;11T Pro;40;60;;110;190
+Xiaomi;Mi;12;40;60;;170;200
+Xiaomi;Mi;12 Pro;40;60;;170;270
+Xiaomi;Mi;12T;40;60;;100;
+Xiaomi;Mi;12T Pro;40;60;;100;160
+Xiaomi;Mi;12X;40;60;;170;200
+Xiaomi;Mi;13;40;60;;160;200
+Xiaomi;Mi;13 Lite;40;60;;120;160
+Xiaomi;Mi;13 Pro;40;60;;;300
+Xiaomi;Mi;13 Ultra;40;60;;;360
+Xiaomi;Mi;13T;40;60;;;120
+Xiaomi;Mi;13T Pro;40;60;;;120
+Xiaomi;Mi;Mi 10 5G;40;60;;;130
+Xiaomi;Mi;Mi 10 Lite 5G;40;60;;;110
+Xiaomi;Mi;Mi 10 Pro 5G;40;60;;220;
+Xiaomi;Mi;Mi 10T 5G;40;60;;110;
+Xiaomi;Mi;Mi 10T Lite 5G;40;60;;100;
+Xiaomi;Mi;Mi 10T Pro 5G;40;60;;120;
+Xiaomi;Mi;Mi 11 5G;40;60;;180;
+Xiaomi;Mi;Mi 11 Lite 4G;40;60;;140;
+Xiaomi;Mi;Mi 11 Lite 5G;40;60;;150;
+Xiaomi;Mi;Mi 11 Pro 5G;40;60;;;240
+Xiaomi;Mi;Mi 11 Ultra;40;60;;;220
+Xiaomi;Mi;Mi 11i 5G;40;60;;160;
+Xiaomi;Mi;Mi 9;40;60;;90;
+Xiaomi;Mi;Mi 9 Lite;40;60;;100;
+Xiaomi;Mi;Mi 9 SE;40;60;;;150
+Xiaomi;Mi;Mi 9T;40;60;;110;
+Xiaomi;Mi;Mi 9T Pro;40;60;;120;
+Samsung;Galaxy A;A02;40;60;;70;90
+Samsung;Galaxy A;A02 S;40;60;;70;90
+Samsung;Galaxy A;A03;40;60;;70;90
+Samsung;Galaxy A;A03 CORE;40;60;;70;90
+Samsung;Galaxy A;A03 S;40;60;;70;90
+Samsung;Galaxy A;A04;40;60;;70;90
+Samsung;Galaxy A;A04 E;40;60;;70;90
+Samsung;Galaxy A;A04 S;40;60;;70;90
+Samsung;Galaxy A;A05;40;60;;70;90
+Samsung;Galaxy A;A05 S;40;60;;70;90
+Samsung;Galaxy A;A10;40;60;;70;90
+Samsung;Galaxy A;A10 S;40;60;;70;90
+Samsung;Galaxy A;A11;40;60;;70;90
+Samsung;Galaxy A;A12;40;60;;70;90
+Samsung;Galaxy A;A13;40;60;;70;100
+Samsung;Galaxy A;A13 5G;40;60;;70;100
+Samsung;Galaxy A;A14;40;60;;70;100
+Samsung;Galaxy A;A14 5G;40;60;;70;100
+Samsung;Galaxy A;A15;40;60;;70;100
+Samsung;Galaxy A;A15 5G;40;60;;70;100
+Samsung;Galaxy A;A20;40;60;;70;100
+Samsung;Galaxy A;A20 E;40;60;;70;100
+Samsung;Galaxy A;A20 S;40;60;;70;100
+Samsung;Galaxy A;A20E;40;60;;70;100
+Samsung;Galaxy A;A21S;40;60;;80;110
+Samsung;Galaxy A;A22;40;60;;80;110
+Samsung;Galaxy A;A22 5G;40;60;;80;110
+Samsung;Galaxy A;A23;40;60;;80;110
+Samsung;Galaxy A;A23 5G;40;60;;;110
+Samsung;Galaxy A;A23 G;40;60;;80;
+Samsung;Galaxy A;A24;40;60;;100;110
+Samsung;Galaxy A;A25;40;60;;;120
+Samsung;Galaxy A;A30;40;60;;80;110
+Samsung;Galaxy A;A30S;40;60;;80;110
+Samsung;Galaxy A;A31;40;60;;80;120
+Samsung;Galaxy A;A32;40;60;;80;110
+Samsung;Galaxy A;A32 5G;40;60;;80;110
+Samsung;Galaxy A;A33;40;60;;80;110
+Samsung;Galaxy A;A33 5G;40;60;;80;110
+Samsung;Galaxy A;A34;40;60;;80;120
+Samsung;Galaxy A;A35;40;60;;120;120
+Samsung;Galaxy A;A40;40;60;;80;110
+Samsung;Galaxy A;A41;40;60;;80;110
+Samsung;Galaxy A;A42;40;60;;80;110
+Samsung;Galaxy A;A42 5G;40;60;;80;110
+Samsung;Galaxy A;A50;40;60;;80;110
+Samsung;Galaxy A;A50 S;40;60;;80;110
+Samsung;Galaxy A;A51;40;60;;100;130
+Samsung;Galaxy A;A51 5G;40;60;;100;130
+Samsung;Galaxy A;A52;40;60;;100;140
+Samsung;Galaxy A;A52 5G;40;60;;100;140
+Samsung;Galaxy A;A52 S;40;60;;100;140
+Samsung;Galaxy A;A53;40;60;;100;180
+Samsung;Galaxy A;A53 5G;40;60;;100;180
+Samsung;Galaxy A;A54;40;60;;100;130
+Samsung;Galaxy A;A54 5G;40;;;100;
+Samsung;Galaxy A;A55;40;60;;100;130
+Samsung;Galaxy A;A70;40;60;;70;120
+Samsung;Galaxy A;A80;40;60;;130;180
+Samsung;Galaxy S;S6;40;60;;80;100
+Samsung;Galaxy S;S6 EDGE;40;60;;;110
+Samsung;Galaxy S;S6 EDGE +;40;60;;;120
+Samsung;Galaxy S;S7;40;60;;;110
+Samsung;Galaxy S;S7 EDGE;40;60;;;160
+Samsung;Galaxy S;S8;40;60;;;160
+Samsung;Galaxy S;S8+;40;60;;;190
+Samsung;Galaxy S;S9;40;60;;;160
+Samsung;Galaxy S;S9+;40;60;;;190
+Samsung;Galaxy S;S10;40;60;;110;220
+Samsung;Galaxy S;S10 +;40;60;;110;260
+Samsung;Galaxy S;S10 5G;40;60;;;250
+Samsung;Galaxy S;S10 E;40;60;;110;160
+Samsung;Galaxy S;S10 LITE;40;60;;120;170
+Samsung;Galaxy S;S20 (5G);40;60;;120;230
+Samsung;Galaxy S;S20 + (5G);40;60;;140;230
+Samsung;Galaxy S;S20 FE (5G);40;60;;120;170
+Samsung;Galaxy S;S20 ULTRA;40;60;;160;240
+Samsung;Galaxy S;S21;40;60;;120;230
+Samsung;Galaxy S;S21 +;40;60;;170;240
+Samsung;Galaxy S;S21 FE;40;60;;120;190
+Samsung;Galaxy S;S21 ULTRA;40;60;;180;320
+Samsung;Galaxy S;S22;40;60;;;210
+Samsung;Galaxy S;S22 +;40;60;;130;230
+Samsung;Galaxy S;S22 ULTRA;40;60;;;300
+Samsung;Galaxy S;S23;40;60;;;230
+Samsung;Galaxy S;S23 +;40;60;;140;230
+Samsung;Galaxy S;S23 FE;40;60;;;180
+Samsung;Galaxy S;S23 ULTRA;40;60;;;380
+Samsung;Galaxy S;S24;40;60;;;260
+Samsung;Galaxy S;S24 +;40;60;;;290
+Samsung;Galaxy S;S24 ULTRA;40;60;;;450
