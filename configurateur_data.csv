@@ -1,4 +1,4 @@
-﻿Marque;Série;Modèle;Type de réparation;Qualité;Prix Standard (€)
+Marque;Série;Modèle;Type de réparation;Qualité;Prix Standard (€)
 Apple;iPhone;iPhone 6;Écran;Compatible;40
 Apple;iPhone;iPhone 6;Châssis;Compatible;60
 Apple;iPhone;iPhone 6S;Écran;Compatible;40
@@ -313,8 +313,6 @@ Samsung;Galaxy A;A53;Batterie;Compatible;40
 Samsung;Galaxy A;A53 5G;Batterie;Compatible;40
 Samsung;Galaxy A;A53;Batterie;Origine;60
 Samsung;Galaxy A;A53 5G;Batterie;Origine;60
-Samsung;Galaxy A;A54;Batterie;Compatible;40
-Samsung;Galaxy A;A54 5G;Batterie;Compatible;40
 Samsung;Galaxy A;A54;Batterie;Origine;60
 Samsung;Galaxy A;A55;Batterie;Compatible;40
 Samsung;Galaxy A;A55;Batterie;Origine;60
@@ -471,3 +469,38 @@ Redmi;Note;Redmi Note 13 Pro (5G);Écran;Origine;120
 Redmi;Note;Redmi Note 13 Pro (5G);Écran;Compatible;70
 Redmi;Note;Redmi Note 13 Pro+ 5G;Écran;Origine;200
 Redmi;Note;Redmi Note 13 Pro+ 5G;Écran;Compatible;100
+Apple;iPhone;iPhone 6;Batterie;Compatible;50
+Apple;iPhone;iPhone 6S;Batterie;Compatible;50
+Apple;iPhone;iPhone 6S Plus;Batterie;Compatible;50
+Apple;iPhone;iPhone 7;Batterie;Compatible;50
+Apple;iPhone;iPhone 7 Plus;Batterie;Compatible;50
+Apple;iPhone;iPhone 8;Batterie;Compatible;50
+Apple;iPhone;iPhone 8 Plus;Batterie;Compatible;50
+Apple;iPhone;iPhone SE 2016;Batterie;Compatible;50
+Apple;iPhone;iPhone SE 2020;Batterie;Compatible;50
+Apple;iPhone;iPhone X;Batterie;Compatible;50
+Apple;iPhone;iPhone XR;Batterie;Compatible;50
+Apple;iPhone;iPhone XS;Batterie;Compatible;50
+Apple;iPhone;iPhone XS Max;Batterie;Compatible;50
+Apple;iPhone;iPhone 11;Batterie;Compatible;50
+Apple;iPhone;iPhone 11 Pro;Batterie;Compatible;50
+Apple;iPhone;iPhone 11 Pro Max;Batterie;Compatible;50
+Apple;iPhone;iPhone 12;Batterie;Compatible;50
+Apple;iPhone;iPhone 12 Mini;Batterie;Compatible;50
+Apple;iPhone;iPhone 12 Pro;Batterie;Compatible;50
+Apple;iPhone;iPhone 12 Pro Max;Batterie;Compatible;50
+Apple;iPhone;iPhone 13;Batterie;Compatible;70
+Apple;iPhone;iPhone 13 Mini;Batterie;Compatible;70
+Apple;iPhone;iPhone 13 Pro;Batterie;Compatible;70
+Apple;iPhone;iPhone 13 Pro Max;Batterie;Compatible;70
+Apple;iPhone;iPhone 14;Batterie;Compatible;70
+Apple;iPhone;iPhone 14 Plus;Batterie;Compatible;70
+Apple;iPhone;iPhone 14 Pro;Batterie;Compatible;70
+Apple;iPhone;iPhone 14 Pro Max;Batterie;Compatible;70
+Apple;iPhone;iPhone 15;Batterie;Compatible;70
+Apple;iPhone;iPhone 15 Plus;Batterie;Compatible;70
+Apple;iPhone;iPhone 15 Pro;Batterie;Compatible;70
+Apple;iPhone;iPhone 15 Pro Max;Batterie;Compatible;70
+Apple;iPhone;iPhone SE 2022;Batterie;Compatible;70Compatible;40
+Samsung;Galaxy A;A54 5G;Batterie;Compatible;40
+Samsung;Galaxy A;A54;Batterie;
