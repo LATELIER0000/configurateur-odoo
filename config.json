@@ -1,0 +1,100 @@
+{
+  "app": {
+    "name": "Configurateur de Prix L'Atelier",
+    "version": "2.0.0",
+    "description": "Configurateur de prix pour réparations mobiles"
+  },
+  "data": {
+    "csvUrl": "https://raw.githubusercontent.com/LATELIER0000/configurateur-odoo/main/configurateur_data.csv"
+  },
+  "contact": {
+    "phoneNumber": "+33139510575",
+    "email": "rdv@votre-atelier.com"
+  },
+  "odoo": {
+    "serverUrl": "https://www.latelier.app",
+    "loginUrl": "https://www.latelier.app/web/login",
+    "registerUrl": "https://www.latelier.app/web/signup",
+    "portalUrl": "https://www.latelier.app/my/home",
+    "appointmentUrl": "https://www.latelier.app/appointment/",
+    "userInfoUrl": "https://www.latelier.app/web/session/get_session_info",
+    "logoutUrl": "https://www.latelier.app/web/session/logout"
+  },
+  "repair": {
+    "times": {
+      "Écran": "30-45 minutes",
+      "Batterie": "20-30 minutes",
+      "Châssis": "1-2 heures"
+    },
+    "durations": {
+      "Écran": 45,
+      "Batterie": 30,
+      "Châssis": 90
+    },
+    "categories": {
+      "Écran": [1],
+      "Batterie": [2],
+      "Châssis": [3]
+    }
+  },
+  "mappings": {
+    "brands": {
+      "Apple": "APPLE",
+      "Samsung": "SAMSUNG",
+      "Xiaomi": "XIAOMI",
+      "Redmi": "REDMI",
+      "Huawei": "HUAWEI",
+      "Oppo": "OPPO",
+      "Poco": "POCO",
+      "Realme": "REALME",
+      "OnePlus": "ONE PLUS"
+    },
+    "brandIds": {
+      "Apple": "1",
+      "Samsung": "2",
+      "Xiaomi": "3",
+      "Redmi": "4",
+      "Huawei": "8",
+      "Oppo": "5",
+      "Poco": "6",
+      "Realme": "7",
+      "OnePlus": "9"
+    },
+    "repairTypes": {
+      "Écran": "Réparation Smartphone",
+      "Batterie": "Réparation Smartphone",
+      "Châssis": "Réparation Smartphone"
+    },
+    "repairIds": {
+      "Écran": "10",
+      "Batterie": "11",
+      "Châssis": "12"
+    },
+    "qualityIds": {
+      "Compatible": "13",
+      "Origine": "14"
+    }
+  },
+  "ui": {
+    "totalSteps": 5,
+    "animationDuration": 300,
+    "dropdownWidth": 220,
+    "autoAdvance": true
+  },
+  "storage": {
+    "formStateKey": "configurateur_form_state",
+    "appointmentDataKey": "latelier_appointment_data",
+    "backupKey": "latelier_appointment_backup",
+    "expirationTime": 3600000
+  },
+  "validation": {
+    "sessionTimeout": 3600000,
+    "maxRetries": 3,
+    "dataValidityTime": 300000
+  },
+  "debug": {
+    "enableLogging": true,
+    "showFiltering": true,
+    "exposeFunctions": true
+  }
+}
