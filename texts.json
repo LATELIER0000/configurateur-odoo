@@ -1,0 +1,164 @@
+{
+  "header": {
+    "title": "🔧 Configurateur de Prix",
+    "subtitle": "Obtenez une estimation précise pour la réparation de votre appareil mobile"
+  },
+  "loading": {
+    "default": "Chargement des données",
+    "csv": "Chargement des données de réparation...",
+    "auth": "Vérification de l'authentification...",
+    "appointment": "Création du rendez-vous..."
+  },
+  "errors": {
+    "csvLoad": "Erreur lors du chargement des données. Veuillez réessayer.",
+    "apiError": "Une erreur est survenue. Veuillez réessayer.",
+    "sessionExpired": "Votre session a expiré. Veuillez vous reconnecter.",
+    "appointmentFailed": "Une erreur est survenue lors de la création du rendez-vous. Veuillez réessayer ou nous contacter directement.",
+    "missingFields": "Veuillez remplir tous les champs obligatoires.",
+    "dateTime": "Veuillez sélectionner une date et une heure pour votre rendez-vous.",
+    "optionUnavailable": "Cette option n'est pas disponible avec vos sélections actuelles"
+  },
+  "summary": {
+    "title": "📋 Votre sélection",
+    "labels": {
+      "repair": "Type :",
+      "quality": "Qualité :",
+      "brand": "Marque :",
+      "series": "Série :"
+    }
+  },
+  "priceResult": {
+    "unavailable": "Non disponible",
+    "consult": "Nous consulter",
+    "details": {
+      "repair": "⚙️ Réparation :",
+      "device": "📱 Appareil :",
+      "quality": "⭐ Qualité :",
+      "time": "⏱️ Temps estimé :"
+    }
+  },
+  "buttons": {
+    "restart": "🔄 Recommencer",
+    "contact": "📞 Nous contacter",
+    "appointment": "📅 Prendre rendez-vous",
+    "login": "🔐 Se connecter pour prendre RDV",
+    "back": "← Retour",
+    "cancel": "← Annuler",
+    "confirm": "✅ Confirmer le rendez-vous",
+    "print": "🖨️ Imprimer le récapitulatif",
+    "newRepair": "🔄 Nouvelle réparation"
+  },
+  "navigation": {
+    "steps": {
+      "1": "🔧 Type",
+      "2": "⭐ Qualité", 
+      "3": "📱 Marque",
+      "4": "📋 Série",
+      "5": "📲 Modèle"
+    }
+  },
+  "auth": {
+    "loginSection": {
+      "title": "🔐 Connexion requise",
+      "subtitle": "Pour prendre rendez-vous, vous devez être connecté à votre compte client.\nCela nous permet de mieux vous servir et de suivre vos réparations.",
+      "buttons": {
+        "login": "🔑 Se connecter",
+        "register": "✨ Créer un compte",
+        "portal": "🏠 Aller au portail client"
+      },
+      "divider": "Déjà client ? Accédez à votre portail",
+      "benefits": {
+        "title": "Avantages de votre compte client :",
+        "list": [
+          "• Suivi de vos réparations en temps réel",
+          "• Historique de vos appareils et interventions", 
+          "• Prise de rendez-vous simplifiée",
+          "• Notifications de statut par email",
+          "• Garanties et factures accessibles 24h/24"
+        ]
+      }
+    },
+    "userInfo": {
+      "connected": "Connecté",
+      "logout": "se déconnecter"
+    }
+  },
+  "appointment": {
+    "summary": {
+      "title": "📋 Récapitulatif de votre réparation",
+      "fields": {
+        "type": "Type :",
+        "device": "Appareil :",
+        "quality": "Qualité :",
+        "price": "Prix estimé :",
+        "duration": "Durée estimée :"
+      }
+    },
+    "form": {
+      "labels": {
+        "name": "👤 Nom complet",
+        "email": "📧 Email", 
+        "phone": "📞 Téléphone",
+        "date": "📅 Date souhaitée *",
+        "time": "🕐 Heure souhaitée *",
+        "comments": "💬 Commentaires (optionnel)"
+      },
+      "placeholders": {
+        "email": "Votre adresse email",
+        "phone": "Votre numéro de téléphone (optionnel)",
+        "phoneOptional": "Optionnel - pour vous joindre le jour J",
+        "comments": "Informations supplémentaires, problèmes spécifiques...",
+        "timeSelect": "Choisir un créneau"
+      },
+      "timeSlots": [
+        { "value": "09:00", "text": "09:00" },
+        { "value": "09:30", "text": "09:30" },
+        { "value": "10:00", "text": "10:00" },
+        { "value": "10:30", "text": "10:30" },
+        { "value": "11:00", "text": "11:00" },
+        { "value": "11:30", "text": "11:30" },
+        { "value": "14:00", "text": "14:00" },
+        { "value": "14:30", "text": "14:30" },
+        { "value": "15:00", "text": "15:00" },
+        { "value": "15:30", "text": "15:30" },
+        { "value": "16:00", "text": "16:00" },
+        { "value": "16:30", "text": "16:30" },
+        { "value": "17:00", "text": "17:00" },
+        { "value": "17:30", "text": "17:30" }
+      ]
+    },
+    "success": {
+      "icon": "✅",
+      "title": "Rendez-vous confirmé !",
+      "message": "Votre rendez-vous a été créé avec succès.\nVous recevrez une confirmation par email sous peu."
+    }
+  },
+  "notifications": {
+    "dataRecovered": {
+      "title": "Configuration récupérée !",
+      "calendar": "Réparation configurée",
+      "selectTime": "✅ Sélectionnez votre créneau ci-dessous"
+    },
+    "reset": {
+      "quick": "⚡ Reset rapide via Échap",
+      "full": "⌨️ Reset complet via raccourci clavier"
+    }
+  },
+  "tooltips": {
+    "stepNavigation": "Cliquez pour aller à cette étape",
+    "optionUnavailable": "Aucune réparation disponible pour cette option avec vos sélections actuelles",
+    "summaryEdit": "Cliquez pour modifier cette sélection"
+  },
+  "validation": {
+    "requiredField": "Ce champ est obligatoire",
+    "invalidEmail": "Adresse email invalide",
+    "invalidPhone": "Numéro de téléphone invalide",
+    "pastDate": "La date ne peut pas être dans le passé"
+  },
+  "debugging": {
+    "shortcuts": "💡 Raccourcis: Échap = reset rapide, Ctrl+Delete = reset complet",
+    "functions": "✅ Fonctions de réinitialisation chargées",
+    "filtering": "✅ Filtrage intelligent réversible activé",
+    "initialization": "🎉 Initialisation terminée avec succès"
+  }
+}
