@@ -1,0 +1,130 @@
+{
+  "steps": {
+    "1": {
+      "id": "repair",
+      "title": "🔧 Quel type de réparation souhaitez-vous ?",
+      "icon": "🔧",
+      "label": "Type",
+      "gridClass": "grid-3"
+    },
+    "2": {
+      "id": "quality",
+      "title": "⭐ Quelle qualité de pièce préférez-vous ?",
+      "icon": "⭐",
+      "label": "Qualité",
+      "gridClass": "grid-2"
+    },
+    "3": {
+      "id": "brand",
+      "title": "📱 Quelle est la marque de votre appareil ?",
+      "icon": "📱",
+      "label": "Marque",
+      "gridClass": "grid-auto"
+    },
+    "4": {
+      "id": "series",
+      "title": "📋 Quelle série correspond à votre appareil ?",
+      "icon": "📋",
+      "label": "Série",
+      "gridClass": "grid-auto"
+    },
+    "5": {
+      "id": "model",
+      "title": "📲 Quel est le modèle exact de votre appareil ?",
+      "icon": "📲",
+      "label": "Modèle",
+      "gridClass": "grid-auto"
+    }
+  },
+  "repairOptions": {
+    "Écran": {
+      "value": "Écran",
+      "icon": "📱",
+      "title": "Écran",
+      "subtitle": "Réparation d'écran",
+      "description": "Remplacement de l'écran tactile et LCD"
+    },
+    "Batterie": {
+      "value": "Batterie",
+      "icon": "🔋",
+      "title": "Batterie",
+      "subtitle": "Remplacement",
+      "description": "Changement de la batterie interne"
+    },
+    "Châssis": {
+      "value": "Châssis",
+      "icon": "🛡️",
+      "title": "Châssis",
+      "subtitle": "Réparation",
+      "description": "Réparation du châssis et structure"
+    }
+  },
+  "qualityOptions": {
+    "Compatible": {
+      "value": "Compatible",
+      "icon": "💰",
+      "title": "Compatible",
+      "subtitle": "Pièce économique",
+      "description": "Pièce compatible de qualité standard"
+    },
+    "Origine": {
+      "value": "Origine",
+      "icon": "✨",
+      "title": "Origine",
+      "subtitle": "Pièce premium",
+      "description": "Pièce d'origine constructeur"
+    }
+  },
+  "dropdownContent": {
+    "repair": [
+      {
+        "value": "Écran",
+        "text": "📱 Réparation d'écran"
+      },
+      {
+        "value": "Batterie",
+        "text": "🔋 Remplacement de batterie"
+      },
+      {
+        "value": "Châssis",
+        "text": "🛡️ Réparation de châssis"
+      }
+    ],
+    "quality": [
+      {
+        "value": "Compatible",
+        "text": "💰 Pièce compatible"
+      },
+      {
+        "value": "Origine",
+        "text": "✨ Pièce d'origine"
+      }
+    ]
+  },
+  "defaultIcons": {
+    "brand": "📱",
+    "series": "📋",
+    "model": "📲"
+  },
+  "styles": {
+    "unavailableColor": "#dc3545",
+    "availableOpacity": "1",
+    "unavailableOpacity": "0.3",
+    "unavailableMessage": "Non disponible"
+  },
+  "sorting": {
+    "brands": "alphabetical",
+    "series": "alphabetical",
+    "models": "smart",
+    "appleSorting": {
+      "enabled": true,
+      "variantOrder": {
+        "Mini": 1,
+        "Standard": 0,
+        "Pro": 2,
+        "Pro Max": 3,
+        "Plus": 3
+      }
+    }
+  }
+}
