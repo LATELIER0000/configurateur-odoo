@@ -658,8 +658,6 @@ Xiaomi;Mi;13 Pro;Batterie;Compatible;40
 Xiaomi;Mi;13 Pro;Batterie;Origine;60
 Xiaomi;Mi;13 Lite;Batterie;Compatible;40
 Xiaomi;Mi;13 Lite;Batterie;Origine;60
-### LIGNES POUR CONNECTEUR DE CHARGE ###
-# APPLE - Qualité Compatible uniquement
 Apple;iPhone;iPhone 6;Connecteur;Compatible;40
 Apple;iPhone;iPhone 6S;Connecteur;Compatible;40
 Apple;iPhone;iPhone 6S Plus;Connecteur;Compatible;40
@@ -693,7 +691,6 @@ Apple;iPhone;iPhone 15;Connecteur;Compatible;70
 Apple;iPhone;iPhone 15 Plus;Connecteur;Compatible;70
 Apple;iPhone;iPhone 15 Pro;Connecteur;Compatible;70
 Apple;iPhone;iPhone 15 Pro Max;Connecteur;Compatible;70
-# SAMSUNG - Qualité Compatible et Origine
 Samsung;Galaxy A;A02;Connecteur;Compatible;40
 Samsung;Galaxy A;A02;Connecteur;Origine;60
 Samsung;Galaxy A;A02 S;Connecteur;Compatible;40
@@ -873,7 +870,6 @@ Samsung;Galaxy S;S24 +;Connecteur;Compatible;40
 Samsung;Galaxy S;S24 +;Connecteur;Origine;60
 Samsung;Galaxy S;S24 ULTRA;Connecteur;Compatible;40
 Samsung;Galaxy S;S24 ULTRA;Connecteur;Origine;60
-# GOOGLE - Qualité Compatible et Origine
 Google;Pixel;Pixel 3A;Connecteur;Compatible;40
 Google;Pixel;Pixel 3A;Connecteur;Origine;60
 Google;Pixel;Pixel 3A XL;Connecteur;Compatible;40
@@ -904,7 +900,6 @@ Google;Pixel;Pixel 8;Connecteur;Compatible;40
 Google;Pixel;Pixel 8;Connecteur;Origine;60
 Google;Pixel;Pixel 8 Pro;Connecteur;Compatible;40
 Google;Pixel;Pixel 8 Pro;Connecteur;Origine;60
-# XIAOMI & REDMI - Qualité Compatible et Origine
 Xiaomi;Mi;Mi 9;Connecteur;Compatible;40
 Xiaomi;Mi;Mi 9;Connecteur;Origine;60
 Xiaomi;Mi;Mi 9 Lite;Connecteur;Compatible;40
