@@ -658,3 +658,340 @@ Xiaomi;Mi;13 Pro;Batterie;Compatible;40
 Xiaomi;Mi;13 Pro;Batterie;Origine;60
 Xiaomi;Mi;13 Lite;Batterie;Compatible;40
 Xiaomi;Mi;13 Lite;Batterie;Origine;60
+### LIGNES POUR CONNECTEUR DE CHARGE ###
+# APPLE - Qualité Compatible uniquement
+Apple;iPhone;iPhone 6;Connecteur;Compatible;40
+Apple;iPhone;iPhone 6S;Connecteur;Compatible;40
+Apple;iPhone;iPhone 6S Plus;Connecteur;Compatible;40
+Apple;iPhone;iPhone SE 2016;Connecteur;Compatible;40
+Apple;iPhone;iPhone 7;Connecteur;Compatible;40
+Apple;iPhone;iPhone 7 Plus;Connecteur;Compatible;40
+Apple;iPhone;iPhone 8;Connecteur;Compatible;40
+Apple;iPhone;iPhone 8 Plus;Connecteur;Compatible;40
+Apple;iPhone;iPhone X;Connecteur;Compatible;50
+Apple;iPhone;iPhone XS;Connecteur;Compatible;50
+Apple;iPhone;iPhone XS Max;Connecteur;Compatible;50
+Apple;iPhone;iPhone XR;Connecteur;Compatible;50
+Apple;iPhone;iPhone SE 2020;Connecteur;Compatible;50
+Apple;iPhone;iPhone 11;Connecteur;Compatible;50
+Apple;iPhone;iPhone 11 Pro;Connecteur;Compatible;50
+Apple;iPhone;iPhone 11 Pro Max;Connecteur;Compatible;50
+Apple;iPhone;iPhone 12 Mini;Connecteur;Compatible;50
+Apple;iPhone;iPhone 12;Connecteur;Compatible;50
+Apple;iPhone;iPhone 12 Pro;Connecteur;Compatible;50
+Apple;iPhone;iPhone 12 Pro Max;Connecteur;Compatible;50
+Apple;iPhone;iPhone 13 Mini;Connecteur;Compatible;70
+Apple;iPhone;iPhone 13;Connecteur;Compatible;70
+Apple;iPhone;iPhone 13 Pro;Connecteur;Compatible;70
+Apple;iPhone;iPhone 13 Pro Max;Connecteur;Compatible;70
+Apple;iPhone;iPhone SE 2022;Connecteur;Compatible;70
+Apple;iPhone;iPhone 14;Connecteur;Compatible;70
+Apple;iPhone;iPhone 14 Plus;Connecteur;Compatible;70
+Apple;iPhone;iPhone 14 Pro;Connecteur;Compatible;70
+Apple;iPhone;iPhone 14 Pro Max;Connecteur;Compatible;70
+Apple;iPhone;iPhone 15;Connecteur;Compatible;70
+Apple;iPhone;iPhone 15 Plus;Connecteur;Compatible;70
+Apple;iPhone;iPhone 15 Pro;Connecteur;Compatible;70
+Apple;iPhone;iPhone 15 Pro Max;Connecteur;Compatible;70
+# SAMSUNG - Qualité Compatible et Origine
+Samsung;Galaxy A;A02;Connecteur;Compatible;40
+Samsung;Galaxy A;A02;Connecteur;Origine;60
+Samsung;Galaxy A;A02 S;Connecteur;Compatible;40
+Samsung;Galaxy A;A02 S;Connecteur;Origine;60
+Samsung;Galaxy A;A03;Connecteur;Compatible;40
+Samsung;Galaxy A;A03;Connecteur;Origine;60
+Samsung;Galaxy A;A03 S;Connecteur;Compatible;40
+Samsung;Galaxy A;A03 S;Connecteur;Origine;60
+Samsung;Galaxy A;A03 CORE;Connecteur;Compatible;40
+Samsung;Galaxy A;A03 CORE;Connecteur;Origine;60
+Samsung;Galaxy A;A04 E;Connecteur;Compatible;40
+Samsung;Galaxy A;A04 E;Connecteur;Origine;60
+Samsung;Galaxy A;A04;Connecteur;Compatible;40
+Samsung;Galaxy A;A04;Connecteur;Origine;60
+Samsung;Galaxy A;A04 S;Connecteur;Compatible;40
+Samsung;Galaxy A;A04 S;Connecteur;Origine;60
+Samsung;Galaxy A;A05;Connecteur;Compatible;40
+Samsung;Galaxy A;A05;Connecteur;Origine;60
+Samsung;Galaxy A;A05 S;Connecteur;Compatible;40
+Samsung;Galaxy A;A05 S;Connecteur;Origine;60
+Samsung;Galaxy A;A10;Connecteur;Compatible;40
+Samsung;Galaxy A;A10;Connecteur;Origine;60
+Samsung;Galaxy A;A10 S;Connecteur;Compatible;40
+Samsung;Galaxy A;A10 S;Connecteur;Origine;60
+Samsung;Galaxy A;A11;Connecteur;Compatible;40
+Samsung;Galaxy A;A11;Connecteur;Origine;60
+Samsung;Galaxy A;A12;Connecteur;Compatible;40
+Samsung;Galaxy A;A12;Connecteur;Origine;60
+Samsung;Galaxy A;A13;Connecteur;Compatible;40
+Samsung;Galaxy A;A13;Connecteur;Origine;60
+Samsung;Galaxy A;A13 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A13 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A14;Connecteur;Compatible;40
+Samsung;Galaxy A;A14;Connecteur;Origine;60
+Samsung;Galaxy A;A14 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A14 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A15;Connecteur;Compatible;40
+Samsung;Galaxy A;A15;Connecteur;Origine;60
+Samsung;Galaxy A;A15 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A15 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A20;Connecteur;Compatible;40
+Samsung;Galaxy A;A20;Connecteur;Origine;60
+Samsung;Galaxy A;A20 S;Connecteur;Compatible;40
+Samsung;Galaxy A;A20 S;Connecteur;Origine;60
+Samsung;Galaxy A;A20 E;Connecteur;Compatible;40
+Samsung;Galaxy A;A20 E;Connecteur;Origine;60
+Samsung;Galaxy A;A21S;Connecteur;Compatible;40
+Samsung;Galaxy A;A21S;Connecteur;Origine;60
+Samsung;Galaxy A;A22;Connecteur;Compatible;40
+Samsung;Galaxy A;A22;Connecteur;Origine;60
+Samsung;Galaxy A;A22 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A22 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A23;Connecteur;Compatible;40
+Samsung;Galaxy A;A23;Connecteur;Origine;60
+Samsung;Galaxy A;A23 G;Connecteur;Compatible;40
+Samsung;Galaxy A;A23 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A23 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A24;Connecteur;Compatible;40
+Samsung;Galaxy A;A24;Connecteur;Origine;60
+Samsung;Galaxy A;A25;Connecteur;Compatible;40
+Samsung;Galaxy A;A25;Connecteur;Origine;60
+Samsung;Galaxy A;A30;Connecteur;Compatible;40
+Samsung;Galaxy A;A30;Connecteur;Origine;60
+Samsung;Galaxy A;A30S;Connecteur;Compatible;40
+Samsung;Galaxy A;A30S;Connecteur;Origine;60
+Samsung;Galaxy A;A31;Connecteur;Compatible;40
+Samsung;Galaxy A;A31;Connecteur;Origine;60
+Samsung;Galaxy A;A32;Connecteur;Compatible;40
+Samsung;Galaxy A;A32;Connecteur;Origine;60
+Samsung;Galaxy A;A32 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A32 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A33;Connecteur;Compatible;40
+Samsung;Galaxy A;A33;Connecteur;Origine;60
+Samsung;Galaxy A;A33 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A33 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A34;Connecteur;Compatible;40
+Samsung;Galaxy A;A34;Connecteur;Origine;60
+Samsung;Galaxy A;A35;Connecteur;Compatible;40
+Samsung;Galaxy A;A35;Connecteur;Origine;60
+Samsung;Galaxy A;A40;Connecteur;Compatible;40
+Samsung;Galaxy A;A40;Connecteur;Origine;60
+Samsung;Galaxy A;A41;Connecteur;Compatible;40
+Samsung;Galaxy A;A41;Connecteur;Origine;60
+Samsung;Galaxy A;A42;Connecteur;Compatible;40
+Samsung;Galaxy A;A42;Connecteur;Origine;60
+Samsung;Galaxy A;A42 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A42 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A50;Connecteur;Compatible;40
+Samsung;Galaxy A;A50;Connecteur;Origine;60
+Samsung;Galaxy A;A50 S;Connecteur;Compatible;40
+Samsung;Galaxy A;A50 S;Connecteur;Origine;60
+Samsung;Galaxy A;A51;Connecteur;Compatible;40
+Samsung;Galaxy A;A51;Connecteur;Origine;60
+Samsung;Galaxy A;A51 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A51 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A52;Connecteur;Compatible;40
+Samsung;Galaxy A;A52;Connecteur;Origine;60
+Samsung;Galaxy A;A52 S;Connecteur;Compatible;40
+Samsung;Galaxy A;A52 S;Connecteur;Origine;60
+Samsung;Galaxy A;A52 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A52 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A53;Connecteur;Compatible;40
+Samsung;Galaxy A;A53;Connecteur;Origine;60
+Samsung;Galaxy A;A53 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A53 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A54;Connecteur;Compatible;40
+Samsung;Galaxy A;A54;Connecteur;Origine;60
+Samsung;Galaxy A;A54 5G;Connecteur;Compatible;40
+Samsung;Galaxy A;A54 5G;Connecteur;Origine;60
+Samsung;Galaxy A;A55;Connecteur;Compatible;40
+Samsung;Galaxy A;A55;Connecteur;Origine;60
+Samsung;Galaxy A;A70;Connecteur;Compatible;40
+Samsung;Galaxy A;A70;Connecteur;Origine;60
+Samsung;Galaxy A;A80;Connecteur;Compatible;40
+Samsung;Galaxy A;A80;Connecteur;Origine;60
+Samsung;Galaxy S;S6;Connecteur;Compatible;40
+Samsung;Galaxy S;S6;Connecteur;Origine;60
+Samsung;Galaxy S;S6 EDGE;Connecteur;Compatible;40
+Samsung;Galaxy S;S6 EDGE;Connecteur;Origine;60
+Samsung;Galaxy S;S6 EDGE +;Connecteur;Compatible;40
+Samsung;Galaxy S;S6 EDGE +;Connecteur;Origine;60
+Samsung;Galaxy S;S7;Connecteur;Compatible;40
+Samsung;Galaxy S;S7;Connecteur;Origine;60
+Samsung;Galaxy S;S7 EDGE;Connecteur;Compatible;40
+Samsung;Galaxy S;S7 EDGE;Connecteur;Origine;60
+Samsung;Galaxy S;S8;Connecteur;Compatible;40
+Samsung;Galaxy S;S8;Connecteur;Origine;60
+Samsung;Galaxy S;S8+;Connecteur;Compatible;40
+Samsung;Galaxy S;S8+;Connecteur;Origine;60
+Samsung;Galaxy S;S9;Connecteur;Compatible;40
+Samsung;Galaxy S;S9;Connecteur;Origine;60
+Samsung;Galaxy S;S9+;Connecteur;Compatible;40
+Samsung;Galaxy S;S9+;Connecteur;Origine;60
+Samsung;Galaxy S;S10 E;Connecteur;Compatible;40
+Samsung;Galaxy S;S10 E;Connecteur;Origine;60
+Samsung;Galaxy S;S10;Connecteur;Compatible;40
+Samsung;Galaxy S;S10;Connecteur;Origine;60
+Samsung;Galaxy S;S10 +;Connecteur;Compatible;40
+Samsung;Galaxy S;S10 +;Connecteur;Origine;60
+Samsung;Galaxy S;S10 5G;Connecteur;Compatible;40
+Samsung;Galaxy S;S10 5G;Connecteur;Origine;60
+Samsung;Galaxy S;S10 LITE;Connecteur;Compatible;40
+Samsung;Galaxy S;S10 LITE;Connecteur;Origine;60
+Samsung;Galaxy S;S20 FE (5G);Connecteur;Compatible;40
+Samsung;Galaxy S;S20 FE (5G);Connecteur;Origine;60
+Samsung;Galaxy S;S20 (5G);Connecteur;Compatible;40
+Samsung;Galaxy S;S20 (5G);Connecteur;Origine;60
+Samsung;Galaxy S;S20 + (5G);Connecteur;Compatible;40
+Samsung;Galaxy S;S20 + (5G);Connecteur;Origine;60
+Samsung;Galaxy S;S20 ULTRA;Connecteur;Compatible;40
+Samsung;Galaxy S;S20 ULTRA;Connecteur;Origine;60
+Samsung;Galaxy S;S21 FE;Connecteur;Compatible;40
+Samsung;Galaxy S;S21 FE;Connecteur;Origine;60
+Samsung;Galaxy S;S21;Connecteur;Compatible;40
+Samsung;Galaxy S;S21;Connecteur;Origine;60
+Samsung;Galaxy S;S21 +;Connecteur;Compatible;40
+Samsung;Galaxy S;S21 +;Connecteur;Origine;60
+Samsung;Galaxy S;S21 ULTRA;Connecteur;Compatible;40
+Samsung;Galaxy S;S21 ULTRA;Connecteur;Origine;60
+Samsung;Galaxy S;S22;Connecteur;Compatible;40
+Samsung;Galaxy S;S22;Connecteur;Origine;60
+Samsung;Galaxy S;S22 +;Connecteur;Compatible;40
+Samsung;Galaxy S;S22 +;Connecteur;Origine;60
+Samsung;Galaxy S;S22 ULTRA;Connecteur;Compatible;40
+Samsung;Galaxy S;S22 ULTRA;Connecteur;Origine;60
+Samsung;Galaxy S;S23 FE;Connecteur;Compatible;40
+Samsung;Galaxy S;S23 FE;Connecteur;Origine;60
+Samsung;Galaxy S;S23;Connecteur;Compatible;40
+Samsung;Galaxy S;S23;Connecteur;Origine;60
+Samsung;Galaxy S;S23 +;Connecteur;Compatible;40
+Samsung;Galaxy S;S23 +;Connecteur;Origine;60
+Samsung;Galaxy S;S23 ULTRA;Connecteur;Compatible;40
+Samsung;Galaxy S;S23 ULTRA;Connecteur;Origine;60
+Samsung;Galaxy S;S24;Connecteur;Compatible;40
+Samsung;Galaxy S;S24;Connecteur;Origine;60
+Samsung;Galaxy S;S24 +;Connecteur;Compatible;40
+Samsung;Galaxy S;S24 +;Connecteur;Origine;60
+Samsung;Galaxy S;S24 ULTRA;Connecteur;Compatible;40
+Samsung;Galaxy S;S24 ULTRA;Connecteur;Origine;60
+# GOOGLE - Qualité Compatible et Origine
+Google;Pixel;Pixel 3A;Connecteur;Compatible;40
+Google;Pixel;Pixel 3A;Connecteur;Origine;60
+Google;Pixel;Pixel 3A XL;Connecteur;Compatible;40
+Google;Pixel;Pixel 3A XL;Connecteur;Origine;60
+Google;Pixel;Pixel 4;Connecteur;Compatible;40
+Google;Pixel;Pixel 4;Connecteur;Origine;60
+Google;Pixel;Pixel 4 XL;Connecteur;Compatible;40
+Google;Pixel;Pixel 4 XL;Connecteur;Origine;60
+Google;Pixel;Pixel 4A (5G);Connecteur;Compatible;40
+Google;Pixel;Pixel 4A (5G);Connecteur;Origine;60
+Google;Pixel;Pixel 5;Connecteur;Compatible;40
+Google;Pixel;Pixel 5;Connecteur;Origine;60
+Google;Pixel;Pixel 5A;Connecteur;Compatible;40
+Google;Pixel;Pixel 5A;Connecteur;Origine;60
+Google;Pixel;Pixel 6;Connecteur;Compatible;40
+Google;Pixel;Pixel 6;Connecteur;Origine;60
+Google;Pixel;Pixel 6 Pro;Connecteur;Compatible;40
+Google;Pixel;Pixel 6 Pro;Connecteur;Origine;60
+Google;Pixel;Pixel 6A;Connecteur;Compatible;40
+Google;Pixel;Pixel 6A;Connecteur;Origine;60
+Google;Pixel;Pixel 7;Connecteur;Compatible;40
+Google;Pixel;Pixel 7;Connecteur;Origine;60
+Google;Pixel;Pixel 7 Pro;Connecteur;Compatible;40
+Google;Pixel;Pixel 7 Pro;Connecteur;Origine;60
+Google;Pixel;Pixel 7A;Connecteur;Compatible;40
+Google;Pixel;Pixel 7A;Connecteur;Origine;60
+Google;Pixel;Pixel 8;Connecteur;Compatible;40
+Google;Pixel;Pixel 8;Connecteur;Origine;60
+Google;Pixel;Pixel 8 Pro;Connecteur;Compatible;40
+Google;Pixel;Pixel 8 Pro;Connecteur;Origine;60
+# XIAOMI & REDMI - Qualité Compatible et Origine
+Xiaomi;Mi;Mi 9;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 9;Connecteur;Origine;60
+Xiaomi;Mi;Mi 9 Lite;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 9 Lite;Connecteur;Origine;60
+Xiaomi;Mi;Mi 9 SE;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 9 SE;Connecteur;Origine;60
+Xiaomi;Mi;Mi 9T;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 9T;Connecteur;Origine;60
+Xiaomi;Mi;Mi 9T Pro;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 9T Pro;Connecteur;Origine;60
+Xiaomi;Mi;Mi 10 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 10 5G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 10 Lite 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 10 Lite 5G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 10 Pro 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 10 Pro 5G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 10T 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 10T 5G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 10T Lite 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 10T Lite 5G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 10T Pro 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 10T Pro 5G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 11 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 11 5G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 11 Lite 4G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 11 Lite 4G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 11 Lite 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 11 Lite 5G;Connecteur;Origine;60
+Xiaomi;Mi;11 Lite 5G NE;Connecteur;Compatible;40
+Xiaomi;Mi;11 Lite 5G NE;Connecteur;Origine;60
+Xiaomi;Mi;Mi 11 Pro 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 11 Pro 5G;Connecteur;Origine;60
+Xiaomi;Mi;Mi 11 Ultra;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 11 Ultra;Connecteur;Origine;60
+Xiaomi;Mi;Mi 11i 5G;Connecteur;Compatible;40
+Xiaomi;Mi;Mi 11i 5G;Connecteur;Origine;60
+Xiaomi;Mi;11T;Connecteur;Compatible;40
+Xiaomi;Mi;11T;Connecteur;Origine;60
+Xiaomi;Mi;11T Pro;Connecteur;Compatible;40
+Xiaomi;Mi;11T Pro;Connecteur;Origine;60
+Xiaomi;Mi;12;Connecteur;Compatible;40
+Xiaomi;Mi;12;Connecteur;Origine;60
+Xiaomi;Mi;12 Pro;Connecteur;Compatible;40
+Xiaomi;Mi;12 Pro;Connecteur;Origine;60
+Xiaomi;Mi;12T;Connecteur;Compatible;40
+Xiaomi;Mi;12T;Connecteur;Origine;60
+Xiaomi;Mi;12T Pro;Connecteur;Compatible;40
+Xiaomi;Mi;12T Pro;Connecteur;Origine;60
+Xiaomi;Mi;12X;Connecteur;Compatible;40
+Xiaomi;Mi;12X;Connecteur;Origine;60
+Xiaomi;Mi;13;Connecteur;Compatible;40
+Xiaomi;Mi;13;Connecteur;Origine;60
+Xiaomi;Mi;13 Lite;Connecteur;Compatible;40
+Xiaomi;Mi;13 Lite;Connecteur;Origine;60
+Xiaomi;Mi;13 Pro;Connecteur;Compatible;40
+Xiaomi;Mi;13 Pro;Connecteur;Origine;60
+Xiaomi;Mi;13 Ultra;Connecteur;Compatible;40
+Xiaomi;Mi;13 Ultra;Connecteur;Origine;60
+Xiaomi;Mi;13T;Connecteur;Compatible;40
+Xiaomi;Mi;13T;Connecteur;Origine;60
+Xiaomi;Mi;13T Pro;Connecteur;Compatible;40
+Xiaomi;Mi;13T Pro;Connecteur;Origine;60
+Redmi;Note;Redmi Note 9 (S) (T);Connecteur;Compatible;40
+Redmi;Note;Redmi Note 9 (S) (T);Connecteur;Origine;60
+Redmi;Note;Redmi Note 9 Pro (5G);Connecteur;Compatible;40
+Redmi;Note;Redmi Note 9 Pro (5G);Connecteur;Origine;60
+Redmi;Note;Redmi Note 10 (S) (5G);Connecteur;Compatible;40
+Redmi;Note;Redmi Note 10 (S) (5G);Connecteur;Origine;60
+Redmi;Note;Redmi Note 10 Pro;Connecteur;Compatible;40
+Redmi;Note;Redmi Note 10 Pro;Connecteur;Origine;60
+Redmi;Note;Redmi Note 11 (S) (5G);Connecteur;Compatible;40
+Redmi;Note;Redmi Note 11 (S) (5G);Connecteur;Origine;60
+Redmi;Note;Redmi Note 11 Pro (5G);Connecteur;Compatible;40
+Redmi;Note;Redmi Note 11 Pro (5G);Connecteur;Origine;60
+Redmi;Note;Redmi Note 11 Pro+ 5G;Connecteur;Compatible;40
+Redmi;Note;Redmi Note 11 Pro+ 5G;Connecteur;Origine;60
+Redmi;Note;Redmi Note 12 (S) (5G);Connecteur;Compatible;40
+Redmi;Note;Redmi Note 12 (S) (5G);Connecteur;Origine;60
+Redmi;Note;Redmi Note 12 Pro (5G);Connecteur;Compatible;40
+Redmi;Note;Redmi Note 12 Pro (5G);Connecteur;Origine;60
+Redmi;Note;Redmi Note 12 Pro+ 5G;Connecteur;Compatible;40
+Redmi;Note;Redmi Note 12 Pro+ 5G;Connecteur;Origine;60
+Redmi;Note;Redmi Note 13 4G;Connecteur;Compatible;40
+Redmi;Note;Redmi Note 13 4G;Connecteur;Origine;60
+Redmi;Note;Redmi Note 13 5G;Connecteur;Compatible;40
+Redmi;Note;Redmi Note 13 5G;Connecteur;Origine;60
+Redmi;Note;Redmi Note 13 Pro (5G);Connecteur;Compatible;40
+Redmi;Note;Redmi Note 13 Pro (5G);Connecteur;Origine;60
+Redmi;Note;Redmi Note 13 Pro+ 5G;Connecteur;Compatible;40
+Redmi;Note;Redmi Note 13 Pro+ 5G;Connecteur;Origine;60
