@@ -1089,163 +1089,429 @@ Apple;iPad Pro;iPad Pro 12.9" 3 (2018);Batterie;Compatible;100
 Apple;iPad Pro;iPad Pro 12.9" 4 (2020);Batterie;Compatible;100
 Apple;iPad Pro;iPad Pro 12.9" 5 (2021);Batterie;Compatible;100
 Apple;iPad Pro;iPad Pro 12.9" 6 (2022);Batterie;Compatible;100
-Huawei;P Series;P60 Pro;;;
-Huawei;P Series;P50 Pro;;;
-Huawei;P Series;P50 Pocket;;;
-Huawei;P Series;P40 Pro+;;;
-Huawei;P Series;P40 Pro;;;
-Huawei;P Series;P40;;;
-Huawei;P Series;P40 Lite;;;
-Huawei;P Series;P30 Pro;;;
-Huawei;P Series;P30;;;
-Huawei;P Series;P30 Lite;;;
-Huawei;P Series;P20 Pro;;;
-Huawei;P Series;P20;;;
-Huawei;P Series;P20 Lite;;;
-Huawei;Mate Series;Mate 50 Pro;;;
-Huawei;Mate Series;Mate 40 Pro;;;
-Huawei;Mate Series;Mate 30 Pro;;;
-Huawei;Mate Series;Mate 20 Pro;;;
-Huawei;Mate Series;Mate 20;;;
-Huawei;Mate Series;Mate 20 Lite;;;
-Huawei;Mate Series;Mate Xs 2;;;
-Huawei;Nova Series;Nova 11 Pro;;;
-Huawei;Nova Series;Nova 11;;;
-Huawei;Nova Series;Nova 10 Pro;;;
-Huawei;Nova Series;Nova 10;;;
-Huawei;Nova Series;Nova 10 SE;;;
-Huawei;Nova Series;Nova 9 SE;;;
-Huawei;Nova Series;Nova 9;;;
-Huawei;Nova Series;Nova 8i;;;
-Huawei;Nova Series;Nova 5T;;;
-Oppo;Find Series;Find X7 Ultra;;;
-Oppo;Find Series;Find X7;;;
-Oppo;Find Series;Find X6 Pro;;;
-Oppo;Find Series;Find X6;;;
-Oppo;Find Series;Find X5 Pro;;;
-Oppo;Find Series;Find X5;;;
-Oppo;Find Series;Find X5 Lite;;;
-Oppo;Find Series;Find X3 Pro;;;
-Oppo;Find Series;Find X3 Neo;;;
-Oppo;Find Series;Find X3 Lite;;;
-Oppo;Find Series;Find N3 Flip;;;
-Oppo;Find Series;Find N2 Flip;;;
-Oppo;Reno Series;Reno11 F;;;
-Oppo;Reno Series;Reno10 Pro;;;
-Oppo;Reno Series;Reno10;;;
-Oppo;Reno Series;Reno8 Pro;;;
-Oppo;Reno Series;Reno8;;;
-Oppo;Reno Series;Reno8 Lite;;;
-Oppo;Reno Series;Reno7;;;
-Oppo;Reno Series;Reno6 Pro;;;
-Oppo;Reno Series;Reno6;;;
-Oppo;A Series;A98 5G;;;
-Oppo;A Series;A96;;;
-Oppo;A Series;A79 5G;;;
-Oppo;A Series;A78 5G;;;
-Oppo;A Series;A77 5G;;;
-Oppo;A Series;A76;;;
-Oppo;A Series;A58;;;
-Oppo;A Series;A57s;;;
-Oppo;A Series;A38;;;
-Oppo;A Series;A17;;;
-Poco;F Series;F6 Pro;;;
-Poco;F Series;F6;;;
-Poco;F Series;F5 Pro;;;
-Poco;F Series;F5;;;
-Poco;F Series;F4 GT;;;
-Poco;F Series;F4;;;
-Poco;F Series;F3;;;
-Poco;X Series;X6 Pro;;;
-Poco;X Series;X6;;;
-Poco;X Series;X5 Pro;;;
-Poco;X Series;X5;;;
-Poco;X Series;X4 Pro;;;
-Poco;X Series;X3 Pro;;;
-Poco;X Series;X3 NFC;;;
-Poco;M Series;M6 Pro;;;
-Poco;M Series;M5s;;;
-Poco;M Series;M5;;;
-Poco;M Series;M4 Pro;;;
-Poco;C Series;C65;;;
-OnePlus;Main Series;OnePlus 12;;;
-OnePlus;Main Series;OnePlus 12R;;;
-OnePlus;Main Series;OnePlus 11;;;
-OnePlus;Main Series;OnePlus 10 Pro;;;
-OnePlus;Main Series;OnePlus 10T;;;
-OnePlus;Main Series;OnePlus 9 Pro;;;
-OnePlus;Main Series;OnePlus 9;;;
-OnePlus;Main Series;OnePlus 8T;;;
-OnePlus;Main Series;OnePlus 8 Pro;;;
-OnePlus;Main Series;OnePlus 8;;;
-OnePlus;Nord Series;Nord 3;;;
-OnePlus;Nord Series;Nord 2T;;;
-OnePlus;Nord Series;Nord 2;;;
-OnePlus;Nord Series;Nord CE 3 Lite;;;
-OnePlus;Nord Series;Nord CE 2 Lite;;;
-OnePlus;Nord Series;Nord CE 2;;;
-OnePlus;Foldable;Open;;;
-Asus;ROG Phone;ROG Phone 8 Pro;;;
-Asus;ROG Phone;ROG Phone 8;;;
-Asus;ROG Phone;ROG Phone 7 Ultimate;;;
-Asus;ROG Phone;ROG Phone 7;;;
-Asus;ROG Phone;ROG Phone 6D Ultimate;;;
-Asus;ROG Phone;ROG Phone 6 Pro;;;
-Asus;ROG Phone;ROG Phone 6;;;
-Asus;Zenfone;Zenfone 11 Ultra;;;
-Asus;Zenfone;Zenfone 10;;;
-Asus;Zenfone;Zenfone 9;;;
-Asus;Zenfone;Zenfone 8;;;
-Honor;Magic Series;Magic6 Pro;;;
-Honor;Magic Series;Magic6 Lite;;;
-Honor;Magic Series;Magic5 Pro;;;
-Honor;Magic Series;Magic5 Lite;;;
-Honor;Magic Series;Magic4 Pro;;;
-Honor;Magic Series;Magic V2;;;
-Honor;Numbered Series;Honor 90;;;
-Honor;Numbered Series;Honor 90 Lite;;;
-Honor;Numbered Series;Honor 70;;;
-Honor;Numbered Series;Honor 50;;;
-Honor;X Series;X8a;;;
-Honor;X Series;X7a;;;
-Honor;X Series;X6;;;
-Realme;GT Series;GT 6;;;
-Realme;GT Series;GT 6T;;;
-Realme;GT Series;GT Neo 6;;;
-Realme;GT Series;GT 5 Pro;;;
-Realme;GT Series;GT3;;;
-Realme;GT Series;GT Neo 3;;;
-Realme;GT Series;GT 2 Pro;;;
-Realme;GT Series;GT 2;;;
-Realme;Numbered Series;Realme 12 Pro+;;;
-Realme;Numbered Series;Realme 12 Pro;;;
-Realme;Numbered Series;Realme 12;;;
-Realme;Numbered Series;Realme 11 Pro+;;;
-Realme;Numbered Series;Realme 11 Pro;;;
-Realme;Numbered Series;Realme 10;;;
-Realme;Numbered Series;Realme 9 Pro+;;;
-Realme;Numbered Series;Realme 9 Pro;;;
-Realme;C Series;C67;;;
-Realme;C Series;C55;;;
-Realme;C Series;C53;;;
-Realme;C Series;C35;;;
-Realme;C Series;C33;;;
-Sony;Xperia;Xperia 1 VI;;;
-Sony;Xperia;Xperia 1 V;;;
-Sony;Xperia;Xperia 1 IV;;;
-Sony;Xperia;Xperia 5 V;;;
-Sony;Xperia;Xperia 5 IV;;;
-Sony;Xperia;Xperia 10 VI;;;
-Sony;Xperia;Xperia 10 V;;;
-Sony;Xperia;Xperia 10 IV;;;
-Sony;Xperia;Xperia PRO-I;;;
-Nokia;X Series;X30 5G;;;
-Nokia;X Series;X20;;;
-Nokia;X Series;X10;;;
-Nokia;G Series;G60 5G;;;
-Nokia;G Series;G50;;;
-Nokia;G Series;G42 5G;;;
-Nokia;G Series;G22;;;
-Nokia;G Series;G21;;;
-Nokia;C Series;C32;;;
-Nokia;C Series;C22;;;
+### BATTERIES POUR SMARTPHONES RECEMMENT AJOUTES ###
+Huawei;P Series;P60 Pro;Batterie;Compatible;40
+Huawei;P Series;P60 Pro;Batterie;Origine;60
+Huawei;P Series;P50 Pro;Batterie;Compatible;40
+Huawei;P Series;P50 Pro;Batterie;Origine;60
+Huawei;P Series;P50 Pocket;Batterie;Compatible;40
+Huawei;P Series;P50 Pocket;Batterie;Origine;60
+Huawei;P Series;P40 Pro+;Batterie;Compatible;40
+Huawei;P Series;P40 Pro+;Batterie;Origine;60
+Huawei;P Series;P40 Pro;Batterie;Compatible;40
+Huawei;P Series;P40 Pro;Batterie;Origine;60
+Huawei;P Series;P40;Batterie;Compatible;40
+Huawei;P Series;P40;Batterie;Origine;60
+Huawei;P Series;P40 Lite;Batterie;Compatible;40
+Huawei;P Series;P40 Lite;Batterie;Origine;60
+Huawei;P Series;P30 Pro;Batterie;Compatible;40
+Huawei;P Series;P30 Pro;Batterie;Origine;60
+Huawei;P Series;P30;Batterie;Compatible;40
+Huawei;P Series;P30;Batterie;Origine;60
+Huawei;P Series;P30 Lite;Batterie;Compatible;40
+Huawei;P Series;P30 Lite;Batterie;Origine;60
+Huawei;P Series;P20 Pro;Batterie;Compatible;40
+Huawei;P Series;P20 Pro;Batterie;Origine;60
+Huawei;P Series;P20;Batterie;Compatible;40
+Huawei;P Series;P20;Batterie;Origine;60
+Huawei;P Series;P20 Lite;Batterie;Compatible;40
+Huawei;P Series;P20 Lite;Batterie;Origine;60
+Huawei;Mate Series;Mate 50 Pro;Batterie;Compatible;40
+Huawei;Mate Series;Mate 50 Pro;Batterie;Origine;60
+Huawei;Mate Series;Mate 40 Pro;Batterie;Compatible;40
+Huawei;Mate Series;Mate 40 Pro;Batterie;Origine;60
+Huawei;Mate Series;Mate 30 Pro;Batterie;Compatible;40
+Huawei;Mate Series;Mate 30 Pro;Batterie;Origine;60
+Huawei;Mate Series;Mate 20 Pro;Batterie;Compatible;40
+Huawei;Mate Series;Mate 20 Pro;Batterie;Origine;60
+Huawei;Mate Series;Mate 20;Batterie;Compatible;40
+Huawei;Mate Series;Mate 20;Batterie;Origine;60
+Huawei;Mate Series;Mate 20 Lite;Batterie;Compatible;40
+Huawei;Mate Series;Mate 20 Lite;Batterie;Origine;60
+Huawei;Mate Series;Mate Xs 2;Batterie;Compatible;40
+Huawei;Mate Series;Mate Xs 2;Batterie;Origine;60
+Huawei;Nova Series;Nova 11 Pro;Batterie;Compatible;40
+Huawei;Nova Series;Nova 11 Pro;Batterie;Origine;60
+Huawei;Nova Series;Nova 11;Batterie;Compatible;40
+Huawei;Nova Series;Nova 11;Batterie;Origine;60
+Huawei;Nova Series;Nova 10 Pro;Batterie;Compatible;40
+Huawei;Nova Series;Nova 10 Pro;Batterie;Origine;60
+Huawei;Nova Series;Nova 10;Batterie;Compatible;40
+Huawei;Nova Series;Nova 10;Batterie;Origine;60
+Huawei;Nova Series;Nova 10 SE;Batterie;Compatible;40
+Huawei;Nova Series;Nova 10 SE;Batterie;Origine;60
+Huawei;Nova Series;Nova 9 SE;Batterie;Compatible;40
+Huawei;Nova Series;Nova 9 SE;Batterie;Origine;60
+Huawei;Nova Series;Nova 9;Batterie;Compatible;40
+Huawei;Nova Series;Nova 9;Batterie;Origine;60
+Huawei;Nova Series;Nova 8i;Batterie;Compatible;40
+Huawei;Nova Series;Nova 8i;Batterie;Origine;60
+Huawei;Nova Series;Nova 5T;Batterie;Compatible;40
+Huawei;Nova Series;Nova 5T;Batterie;Origine;60
+Oppo;Find Series;Find X7 Ultra;Batterie;Compatible;40
+Oppo;Find Series;Find X7 Ultra;Batterie;Origine;60
+Oppo;Find Series;Find X7;Batterie;Compatible;40
+Oppo;Find Series;Find X7;Batterie;Origine;60
+Oppo;Find Series;Find X6 Pro;Batterie;Compatible;40
+Oppo;Find Series;Find X6 Pro;Batterie;Origine;60
+Oppo;Find Series;Find X6;Batterie;Compatible;40
+Oppo;Find Series;Find X6;Batterie;Origine;60
+Oppo;Find Series;Find X5 Pro;Batterie;Compatible;40
+Oppo;Find Series;Find X5 Pro;Batterie;Origine;60
+Oppo;Find Series;Find X5;Batterie;Compatible;40
+Oppo;Find Series;Find X5;Batterie;Origine;60
+Oppo;Find Series;Find X5 Lite;Batterie;Compatible;40
+Oppo;Find Series;Find X5 Lite;Batterie;Origine;60
+Oppo;Find Series;Find X3 Pro;Batterie;Compatible;40
+Oppo;Find Series;Find X3 Pro;Batterie;Origine;60
+Oppo;Find Series;Find X3 Neo;Batterie;Compatible;40
+Oppo;Find Series;Find X3 Neo;Batterie;Origine;60
+Oppo;Find Series;Find X3 Lite;Batterie;Compatible;40
+Oppo;Find Series;Find X3 Lite;Batterie;Origine;60
+Oppo;Find Series;Find N3 Flip;Batterie;Compatible;40
+Oppo;Find Series;Find N3 Flip;Batterie;Origine;60
+Oppo;Find Series;Find N2 Flip;Batterie;Compatible;40
+Oppo;Find Series;Find N2 Flip;Batterie;Origine;60
+Oppo;Reno Series;Reno11 F;Batterie;Compatible;40
+Oppo;Reno Series;Reno11 F;Batterie;Origine;60
+Oppo;Reno Series;Reno10 Pro;Batterie;Compatible;40
+Oppo;Reno Series;Reno10 Pro;Batterie;Origine;60
+Oppo;Reno Series;Reno10;Batterie;Compatible;40
+Oppo;Reno Series;Reno10;Batterie;Origine;60
+Oppo;Reno Series;Reno8 Pro;Batterie;Compatible;40
+Oppo;Reno Series;Reno8 Pro;Batterie;Origine;60
+Oppo;Reno Series;Reno8;Batterie;Compatible;40
+Oppo;Reno Series;Reno8;Batterie;Origine;60
+Oppo;Reno Series;Reno8 Lite;Batterie;Compatible;40
+Oppo;Reno Series;Reno8 Lite;Batterie;Origine;60
+Oppo;Reno Series;Reno7;Batterie;Compatible;40
+Oppo;Reno Series;Reno7;Batterie;Origine;60
+Oppo;Reno Series;Reno6 Pro;Batterie;Compatible;40
+Oppo;Reno Series;Reno6 Pro;Batterie;Origine;60
+Oppo;Reno Series;Reno6;Batterie;Compatible;40
+Oppo;Reno Series;Reno6;Batterie;Origine;60
+Oppo;A Series;A98 5G;Batterie;Compatible;40
+Oppo;A Series;A98 5G;Batterie;Origine;60
+Oppo;A Series;A96;Batterie;Compatible;40
+Oppo;A Series;A96;Batterie;Origine;60
+Oppo;A Series;A79 5G;Batterie;Compatible;40
+Oppo;A Series;A79 5G;Batterie;Origine;60
+Oppo;A Series;A78 5G;Batterie;Compatible;40
+Oppo;A Series;A78 5G;Batterie;Origine;60
+Oppo;A Series;A77 5G;Batterie;Compatible;40
+Oppo;A Series;A77 5G;Batterie;Origine;60
+Oppo;A Series;A76;Batterie;Compatible;40
+Oppo;A Series;A76;Batterie;Origine;60
+Oppo;A Series;A58;Batterie;Compatible;40
+Oppo;A Series;A58;Batterie;Origine;60
+Oppo;A Series;A57s;Batterie;Compatible;40
+Oppo;A Series;A57s;Batterie;Origine;60
+Oppo;A Series;A38;Batterie;Compatible;40
+Oppo;A Series;A38;Batterie;Origine;60
+Oppo;A Series;A17;Batterie;Compatible;40
+Oppo;A Series;A17;Batterie;Origine;60
+Poco;F Series;F6 Pro;Batterie;Compatible;40
+Poco;F Series;F6 Pro;Batterie;Origine;60
+Poco;F Series;F6;Batterie;Compatible;40
+Poco;F Series;F6;Batterie;Origine;60
+Poco;F Series;F5 Pro;Batterie;Compatible;40
+Poco;F Series;F5 Pro;Batterie;Origine;60
+Poco;F Series;F5;Batterie;Compatible;40
+Poco;F Series;F5;Batterie;Origine;60
+Poco;F Series;F4 GT;Batterie;Compatible;40
+Poco;F Series;F4 GT;Batterie;Origine;60
+Poco;F Series;F4;Batterie;Compatible;40
+Poco;F Series;F4;Batterie;Origine;60
+Poco;F Series;F3;Batterie;Compatible;40
+Poco;F Series;F3;Batterie;Origine;60
+Poco;X Series;X6 Pro;Batterie;Compatible;40
+Poco;X Series;X6 Pro;Batterie;Origine;60
+Poco;X Series;X6;Batterie;Compatible;40
+Poco;X Series;X6;Batterie;Origine;60
+Poco;X Series;X5 Pro;Batterie;Compatible;40
+Poco;X Series;X5 Pro;Batterie;Origine;60
+Poco;X Series;X5;Batterie;Compatible;40
+Poco;X Series;X5;Batterie;Origine;60
+Poco;X Series;X4 Pro;Batterie;Compatible;40
+Poco;X Series;X4 Pro;Batterie;Origine;60
+Poco;X Series;X3 Pro;Batterie;Compatible;40
+Poco;X Series;X3 Pro;Batterie;Origine;60
+Poco;X Series;X3 NFC;Batterie;Compatible;40
+Poco;X Series;X3 NFC;Batterie;Origine;60
+Poco;M Series;M6 Pro;Batterie;Compatible;40
+Poco;M Series;M6 Pro;Batterie;Origine;60
+Poco;M Series;M5s;Batterie;Compatible;40
+Poco;M Series;M5s;Batterie;Origine;60
+Poco;M Series;M5;Batterie;Compatible;40
+Poco;M Series;M5;Batterie;Origine;60
+Poco;M Series;M4 Pro;Batterie;Compatible;40
+Poco;M Series;M4 Pro;Batterie;Origine;60
+Poco;C Series;C65;Batterie;Compatible;40
+Poco;C Series;C65;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 12;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 12;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 12R;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 12R;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 11;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 11;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 10 Pro;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 10 Pro;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 10T;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 10T;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 9 Pro;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 9 Pro;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 9;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 9;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 8T;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 8T;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 8 Pro;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 8 Pro;Batterie;Origine;60
+OnePlus;Main Series;OnePlus 8;Batterie;Compatible;40
+OnePlus;Main Series;OnePlus 8;Batterie;Origine;60
+OnePlus;Nord Series;Nord 3;Batterie;Compatible;40
+OnePlus;Nord Series;Nord 3;Batterie;Origine;60
+OnePlus;Nord Series;Nord 2T;Batterie;Compatible;40
+OnePlus;Nord Series;Nord 2T;Batterie;Origine;60
+OnePlus;Nord Series;Nord 2;Batterie;Compatible;40
+OnePlus;Nord Series;Nord 2;Batterie;Origine;60
+OnePlus;Nord Series;Nord CE 3 Lite;Batterie;Compatible;40
+OnePlus;Nord Series;Nord CE 3 Lite;Batterie;Origine;60
+OnePlus;Nord Series;Nord CE 2 Lite;Batterie;Compatible;40
+OnePlus;Nord Series;Nord CE 2 Lite;Batterie;Origine;60
+OnePlus;Nord Series;Nord CE 2;Batterie;Compatible;40
+OnePlus;Nord Series;Nord CE 2;Batterie;Origine;60
+OnePlus;Foldable;Open;Batterie;Compatible;40
+OnePlus;Foldable;Open;Batterie;Origine;60
+Asus;ROG Phone;ROG Phone 8 Pro;Batterie;Compatible;40
+Asus;ROG Phone;ROG Phone 8 Pro;Batterie;Origine;60
+Asus;ROG Phone;ROG Phone 8;Batterie;Compatible;40
+Asus;ROG Phone;ROG Phone 8;Batterie;Origine;60
+Asus;ROG Phone;ROG Phone 7 Ultimate;Batterie;Compatible;40
+Asus;ROG Phone;ROG Phone 7 Ultimate;Batterie;Origine;60
+Asus;ROG Phone;ROG Phone 7;Batterie;Compatible;40
+Asus;ROG Phone;ROG Phone 7;Batterie;Origine;60
+Asus;ROG Phone;ROG Phone 6D Ultimate;Batterie;Compatible;40
+Asus;ROG Phone;ROG Phone 6D Ultimate;Batterie;Origine;60
+Asus;ROG Phone;ROG Phone 6 Pro;Batterie;Compatible;40
+Asus;ROG Phone;ROG Phone 6 Pro;Batterie;Origine;60
+Asus;ROG Phone;ROG Phone 6;Batterie;Compatible;40
+Asus;ROG Phone;ROG Phone 6;Batterie;Origine;60
+Asus;Zenfone;Zenfone 11 Ultra;Batterie;Compatible;40
+Asus;Zenfone;Zenfone 11 Ultra;Batterie;Origine;60
+Asus;Zenfone;Zenfone 10;Batterie;Compatible;40
+Asus;Zenfone;Zenfone 10;Batterie;Origine;60
+Asus;Zenfone;Zenfone 9;Batterie;Compatible;40
+Asus;Zenfone;Zenfone 9;Batterie;Origine;60
+Asus;Zenfone;Zenfone 8;Batterie;Compatible;40
+Asus;Zenfone;Zenfone 8;Batterie;Origine;60
+Honor;Magic Series;Magic6 Pro;Batterie;Compatible;40
+Honor;Magic Series;Magic6 Pro;Batterie;Origine;60
+Honor;Magic Series;Magic6 Lite;Batterie;Compatible;40
+Honor;Magic Series;Magic6 Lite;Batterie;Origine;60
+Honor;Magic Series;Magic5 Pro;Batterie;Compatible;40
+Honor;Magic Series;Magic5 Pro;Batterie;Origine;60
+Honor;Magic Series;Magic5 Lite;Batterie;Compatible;40
+Honor;Magic Series;Magic5 Lite;Batterie;Origine;60
+Honor;Magic Series;Magic4 Pro;Batterie;Compatible;40
+Honor;Magic Series;Magic4 Pro;Batterie;Origine;60
+Honor;Magic Series;Magic V2;Batterie;Compatible;40
+Honor;Magic Series;Magic V2;Batterie;Origine;60
+Honor;Numbered Series;Honor 90;Batterie;Compatible;40
+Honor;Numbered Series;Honor 90;Batterie;Origine;60
+Honor;Numbered Series;Honor 90 Lite;Batterie;Compatible;40
+Honor;Numbered Series;Honor 90 Lite;Batterie;Origine;60
+Honor;Numbered Series;Honor 70;Batterie;Compatible;40
+Honor;Numbered Series;Honor 70;Batterie;Origine;60
+Honor;Numbered Series;Honor 50;Batterie;Compatible;40
+Honor;Numbered Series;Honor 50;Batterie;Origine;60
+Honor;X Series;X8a;Batterie;Compatible;40
+Honor;X Series;X8a;Batterie;Origine;60
+Honor;X Series;X7a;Batterie;Compatible;40
+Honor;X Series;X7a;Batterie;Origine;60
+Honor;X Series;X6;Batterie;Compatible;40
+Honor;X Series;X6;Batterie;Origine;60
+Realme;GT Series;GT 6;Batterie;Compatible;40
+Realme;GT Series;GT 6;Batterie;Origine;60
+Realme;GT Series;GT 6T;Batterie;Compatible;40
+Realme;GT Series;GT 6T;Batterie;Origine;60
+Realme;GT Series;GT Neo 6;Batterie;Compatible;40
+Realme;GT Series;GT Neo 6;Batterie;Origine;60
+Realme;GT Series;GT 5 Pro;Batterie;Compatible;40
+Realme;GT Series;GT 5 Pro;Batterie;Origine;60
+Realme;GT Series;GT3;Batterie;Compatible;40
+Realme;GT Series;GT3;Batterie;Origine;60
+Realme;GT Series;GT Neo 3;Batterie;Compatible;40
+Realme;GT Series;GT Neo 3;Batterie;Origine;60
+Realme;GT Series;GT 2 Pro;Batterie;Compatible;40
+Realme;GT Series;GT 2 Pro;Batterie;Origine;60
+Realme;GT Series;GT 2;Batterie;Compatible;40
+Realme;GT Series;GT 2;Batterie;Origine;60
+Realme;Numbered Series;Realme 12 Pro+;Batterie;Compatible;40
+Realme;Numbered Series;Realme 12 Pro+;Batterie;Origine;60
+Realme;Numbered Series;Realme 12 Pro;Batterie;Compatible;40
+Realme;Numbered Series;Realme 12 Pro;Batterie;Origine;60
+Realme;Numbered Series;Realme 12;Batterie;Compatible;40
+Realme;Numbered Series;Realme 12;Batterie;Origine;60
+Realme;Numbered Series;Realme 11 Pro+;Batterie;Compatible;40
+Realme;Numbered Series;Realme 11 Pro+;Batterie;Origine;60
+Realme;Numbered Series;Realme 11 Pro;Batterie;Compatible;40
+Realme;Numbered Series;Realme 11 Pro;Batterie;Origine;60
+Realme;Numbered Series;Realme 10;Batterie;Compatible;40
+Realme;Numbered Series;Realme 10;Batterie;Origine;60
+Realme;Numbered Series;Realme 9 Pro+;Batterie;Compatible;40
+Realme;Numbered Series;Realme 9 Pro+;Batterie;Origine;60
+Realme;Numbered Series;Realme 9 Pro;Batterie;Compatible;40
+Realme;Numbered Series;Realme 9 Pro;Batterie;Origine;60
+Realme;C Series;C67;Batterie;Compatible;40
+Realme;C Series;C67;Batterie;Origine;60
+Realme;C Series;C55;Batterie;Compatible;40
+Realme;C Series;C55;Batterie;Origine;60
+Realme;C Series;C53;Batterie;Compatible;40
+Realme;C Series;C53;Batterie;Origine;60
+Realme;C Series;C35;Batterie;Compatible;40
+Realme;C Series;C35;Batterie;Origine;60
+Realme;C Series;C33;Batterie;Compatible;40
+Realme;C Series;C33;Batterie;Origine;60
+Sony;Xperia;Xperia 1 VI;Batterie;Compatible;40
+Sony;Xperia;Xperia 1 VI;Batterie;Origine;60
+Sony;Xperia;Xperia 1 V;Batterie;Compatible;40
+Sony;Xperia;Xperia 1 V;Batterie;Origine;60
+Sony;Xperia;Xperia 1 IV;Batterie;Compatible;40
+Sony;Xperia;Xperia 1 IV;Batterie;Origine;60
+Sony;Xperia;Xperia 5 V;Batterie;Compatible;40
+Sony;Xperia;Xperia 5 V;Batterie;Origine;60
+Sony;Xperia;Xperia 5 IV;Batterie;Compatible;40
+Sony;Xperia;Xperia 5 IV;Batterie;Origine;60
+Sony;Xperia;Xperia 10 VI;Batterie;Compatible;40
+Sony;Xperia;Xperia 10 VI;Batterie;Origine;60
+Sony;Xperia;Xperia 10 V;Batterie;Compatible;40
+Sony;Xperia;Xperia 10 V;Batterie;Origine;60
+Sony;Xperia;Xperia 10 IV;Batterie;Compatible;40
+Sony;Xperia;Xperia 10 IV;Batterie;Origine;60
+Sony;Xperia;Xperia PRO-I;Batterie;Compatible;40
+Sony;Xperia;Xperia PRO-I;Batterie;Origine;60
+Nokia;X Series;X30 5G;Batterie;Compatible;40
+Nokia;X Series;X30 5G;Batterie;Origine;60
+Nokia;X Series;X20;Batterie;Compatible;40
+Nokia;X Series;X20;Batterie;Origine;60
+Nokia;X Series;X10;Batterie;Compatible;40
+Nokia;X Series;X10;Batterie;Origine;60
+Nokia;G Series;G60 5G;Batterie;Compatible;40
+Nokia;G Series;G60 5G;Batterie;Origine;60
+Nokia;G Series;G50;Batterie;Compatible;40
+Nokia;G Series;G50;Batterie;Origine;60
+Nokia;G Series;G42 5G;Batterie;Compatible;40
+Nokia;G Series;G42 5G;Batterie;Origine;60
+Nokia;G Series;G22;Batterie;Compatible;40
+Nokia;G Series;G22;Batterie;Origine;60
+Nokia;G Series;G21;Batterie;Compatible;40
+Nokia;G Series;G21;Batterie;Origine;60
+Nokia;C Series;C32;Batterie;Compatible;40
+Nokia;C Series;C32;Batterie;Origine;60
+Nokia;C Series;C22;Batterie;Compatible;40
+Nokia;C Series;C22;Batterie;Origine;60
+### TABLETTES ###
+Samsung;Galaxy Tab S;Tab S9 Ultra;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S9+;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S9;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S9 FE;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S8 Ultra;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S8+;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S8;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S7+;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S7 FE;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S7;Batterie;Compatible;90
+Samsung;Galaxy Tab S;Tab S6 Lite (2022);Batterie;Compatible;90
+Samsung;Galaxy Tab A;Tab A9+;Batterie;Compatible;90
+Samsung;Galaxy Tab A;Tab A9;Batterie;Compatible;90
+Samsung;Galaxy Tab A;Tab A8;Batterie;Compatible;90
+Samsung;Galaxy Tab A;Tab A7 Lite;Batterie;Compatible;90
+Lenovo;Tab P Series;Tab P12 Pro;Batterie;Compatible;90
+Lenovo;Tab P Series;Tab P12;Batterie;Compatible;90
+Lenovo;Tab P Series;Tab P11 Pro (Gen 2);Batterie;Compatible;90
+Lenovo;Tab P Series;Tab P11 (Gen 2);Batterie;Compatible;90
+Lenovo;Tab M Series;Tab M11;Batterie;Compatible;90
+Lenovo;Tab M Series;Tab M10 (Gen 3);Batterie;Compatible;90
+Lenovo;Tab M Series;Tab M9;Batterie;Compatible;90
+Huawei;MatePad;MatePad Pro 13.2;Batterie;Compatible;90
+Huawei;MatePad;MatePad Pro 11;Batterie;Compatible;90
+Huawei;MatePad;MatePad 11.5;Batterie;Compatible;90
+Huawei;MatePad;MatePad Air;Batterie;Compatible;90
+Xiaomi;Pad;Pad 6S Pro;Batterie;Compatible;90
+Xiaomi;Pad;Pad 6;Batterie;Compatible;90
+Xiaomi;Pad;Pad 5;Batterie;Compatible;90
+Microsoft;Surface;Surface Pro 9;Batterie;Compatible;90
+Microsoft;Surface;Surface Pro 8;Batterie;Compatible;90
+Microsoft;Surface;Surface Pro 7+;Batterie;Compatible;90
+Microsoft;Surface;Surface Go 4;Batterie;Compatible;90
+Microsoft;Surface;Surface Go 3;Batterie;Compatible;90
+Amazon;Fire Tablet;Fire Max 11;Batterie;Compatible;90
+Amazon;Fire Tablet;Fire HD 10;Batterie;Compatible;90
+Amazon;Fire Tablet;Fire HD 8;Batterie;Compatible;90
+### ORDINATEURS PORTABLES ###
+Apple;MacBook Air;MacBook Air 15" (M3);Batterie;Compatible;90
+Apple;MacBook Air;MacBook Air 13" (M3);Batterie;Compatible;90
+Apple;MacBook Air;MacBook Air 15" (M2);Batterie;Compatible;90
+Apple;MacBook Air;MacBook Air 13" (M2);Batterie;Compatible;90
+Apple;MacBook Air;MacBook Air 13" (M1);Batterie;Compatible;90
+Apple;MacBook Pro;MacBook Pro 16" (M3);Batterie;Compatible;90
+Apple;MacBook Pro;MacBook Pro 14" (M3);Batterie;Compatible;90
+Apple;MacBook Pro;MacBook Pro 13" (M2);Batterie;Compatible;90
+Dell;XPS;XPS 17;Batterie;Compatible;90
+Dell;XPS;XPS 16;Batterie;Compatible;90
+Dell;XPS;XPS 15;Batterie;Compatible;90
+Dell;XPS;XPS 14;Batterie;Compatible;90
+Dell;XPS;XPS 13;Batterie;Compatible;90
+Dell;Inspiron;Inspiron 16;Batterie;Compatible;90
+Dell;Inspiron;Inspiron 15;Batterie;Compatible;90
+Dell;Inspiron;Inspiron 14;Batterie;Compatible;90
+Dell;Alienware;Alienware m18;Batterie;Compatible;90
+Dell;Alienware;Alienware m16;Batterie;Compatible;90
+Dell;Alienware;Alienware x16;Batterie;Compatible;90
+Dell;Latitude;Latitude 9000 Series;Batterie;Compatible;90
+Dell;Latitude;Latitude 7000 Series;Batterie;Compatible;90
+Dell;Latitude;Latitude 5000 Series;Batterie;Compatible;90
+HP;Spectre;Spectre x360 16;Batterie;Compatible;90
+HP;Spectre;Spectre x360 14;Batterie;Compatible;90
+HP;Envy;Envy x360 15;Batterie;Compatible;90
+HP;Envy;Envy 17;Batterie;Compatible;90
+HP;Pavilion;Pavilion Plus 14;Batterie;Compatible;90
+HP;Pavilion;Pavilion Aero 13;Batterie;Compatible;90
+HP;EliteBook;EliteBook 1000 Series;Batterie;Compatible;90
+HP;EliteBook;EliteBook 800 Series;Batterie;Compatible;90
+HP;Omen;Omen 17;Batterie;Compatible;90
+HP;Omen;Omen 16;Batterie;Compatible;90
+Lenovo;ThinkPad;ThinkPad X1 Carbon;Batterie;Compatible;90
+Lenovo;ThinkPad;ThinkPad T Series;Batterie;Compatible;90
+Lenovo;ThinkPad;ThinkPad E Series;Batterie;Compatible;90
+Lenovo;Yoga;Yoga 9i;Batterie;Compatible;90
+Lenovo;Yoga;Yoga 7i;Batterie;Compatible;90
+Lenovo;IdeaPad;IdeaPad Slim 5;Batterie;Compatible;90
+Lenovo;IdeaPad;IdeaPad Pro 5i;Batterie;Compatible;90
+Lenovo;Legion;Legion Pro 7i;Batterie;Compatible;90
+Lenovo;Legion;Legion Slim 5;Batterie;Compatible;90
+Asus;Zenbook;Zenbook Duo;Batterie;Compatible;90
+Asus;Zenbook;Zenbook 14 OLED;Batterie;Compatible;90
+Asus;Vivobook;Vivobook Pro 16X;Batterie;Compatible;90
+Asus;Vivobook;Vivobook S 15;Batterie;Compatible;90
+Asus;ROG;ROG Zephyrus G16;Batterie;Compatible;90
+Asus;ROG;ROG Strix SCAR 18;Batterie;Compatible;90
+Asus;TUF Gaming;TUF Gaming A16;Batterie;Compatible;90
+Acer;Swift;Swift Go 14;Batterie;Compatible;90
+Acer;Swift;Swift X 14;Batterie;Compatible;90
+Acer;Aspire;Aspire 7;Batterie;Compatible;90
+Acer;Aspire;Aspire 5;Batterie;Compatible;90
+Acer;Predator;Predator Helios 18;Batterie;Compatible;90
+Acer;Predator;Predator Helios 16;Batterie;Compatible;90
+Microsoft;Surface Laptop;Surface Laptop 6;Batterie;Compatible;90
+Microsoft;Surface Laptop;Surface Laptop 5;Batterie;Compatible;90
+Microsoft;Surface Laptop;Surface Laptop Studio 2;Batterie;Compatible;90
+Microsoft;Surface Laptop;Surface Laptop Go 3;Batterie;Compatible;90
+Microsoft;Surface Book;Surface Book 3;Batterie;Compatible;90
+Samsung;Galaxy Book;Galaxy Book4 Ultra;Batterie;Compatible;90
+Samsung;Galaxy Book;Galaxy Book4 Pro;Batterie;Compatible;90
+Samsung;Galaxy Book;Galaxy Book4 360;Batterie;Compatible;90
+Razer;Blade;Blade 18;Batterie;Compatible;90
+Razer;Blade;Blade 16;Batterie;Compatible;90
+Razer;Blade;Blade 15;Batterie;Compatible;90
+Razer;Blade;Blade 14;Batterie;Compatible;90
